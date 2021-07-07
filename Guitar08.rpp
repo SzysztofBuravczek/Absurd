@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.14/x64" 1625433144
+<REAPER_PROJECT 0.1 "6.14/x64" 1625696750
   RIPPLE 0
   GROUPOVERRIDE 1 0 1
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 4 30 0 0 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 1509.0134230687263
-  ZOOM 0.56830204390609 0 0
-  VZOOMEX 6 0
+  CURSOR 1341.8067458104911
+  ZOOM 0.74705243741678 592 0
+  VZOOMEX 0 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -44,7 +44,7 @@
   SAMPLERATE 44100 1 0
   <RENDER_CFG
   >
-  LOCK 1
+  LOCK 16449
   <METRONOME 6 2
     VOL 0.25 0.125
     FREQ 800 1600 1
@@ -66,7 +66,7 @@
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
   MASTER_FX 1
-  MASTER_SEL 0
+  MASTER_SEL 1
   <MASTERPLAYSPEEDENV
     EGUID {21E88331-28FD-4A76-9EDD-12CC4D48BBBB}
     ACT 0 -1
@@ -2382,7 +2382,7 @@
     PEAKCOL 16576
     BEAT 0
     AUTOMODE 1
-    VOLPAN 0.86402374990307 1 -1 -1 1
+    VOLPAN 1 1 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -2390,11 +2390,11 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     GROUP_FLAGS 0 0 2 2 0 0 0 0 32 32
-    TRACKHEIGHT 221 1 0 0 -1 0
+    TRACKHEIGHT 0 0 0 0 -1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2406,7 +2406,7 @@
       EGUID {B3349E8C-BBFB-4821-ACD6-F101D2168E41}
       ACT 1 -1
       VIS 0 1 1
-      LANEHEIGHT 0 1
+      LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
@@ -2430,19 +2430,26 @@
       PT 1671.89197166 1.13501082 0 0 1
     >
     <FXCHAIN
-      WNDRECT 523 41 754 728
+      WNDRECT 612 0 754 728
       SHOW 0
       LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAqAAAAAEAAAAAABAA
-        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAGHzyWgBwGtAAZjeBqPQ+T8AAAAAAAAAQAEIAAAAAQAAADdECPc1MpZAIBt0Hs6K
-        9D8AAAAAAAAAQAEBAAAAAQAAAAk+L38tYKZAEOkcuK0rEEAAAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAA8CAABsAgAA
+        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAGHzyWgBwGtAYe8cdD4J+D8AAAAAAAAAQAEIAAAAAQAAALYgLK3I9JNAIHzs7WHS
+        8z8AAAAAAAAAQAEBAAAAAQAAAKGJ5qHx96ZAobr+ccLuBkAAAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAA8CAABsAgAA
         AAAQAAAA
       >
       FLOATPOS 0 0 0 0
-      FXID {3CE22538-5E0D-467C-9E23-409E4FEE76B0}
+      FXID {E918DF2B-EB8D-4FAD-B185-E7351DDB58CC}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS schwa/soft_clipper ""
+        0.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B2A4D2E2-ACCF-4850-A9B1-10BD53FF938B}
       WAK 0 0
     >
     <ITEM
@@ -3196,7 +3203,7 @@
     PEAKCOL 16576
     BEAT 0
     AUTOMODE 1
-    VOLPAN 0.98967238187352 -1 -1 -1 1
+    VOLPAN 1 -1 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 31 3
@@ -3204,11 +3211,11 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 1 1 0 0 0 0
     VU 2
     GROUP_FLAGS 0 0 2 2 0 0 0 0 32 32 0 0 0 0 0 2
-    TRACKHEIGHT 188 1 0 0 -1 0
+    TRACKHEIGHT 0 0 0 0 -1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3220,7 +3227,7 @@
       EGUID {EC0E09FC-8C0E-4582-9500-874F73CDC10F}
       ACT 1 -1
       VIS 0 1 1
-      LANEHEIGHT 0 1
+      LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
@@ -3244,13 +3251,13 @@
       PT 1671.89197166 1.08392691 0 0 1
     >
     <FXCHAIN
-      WNDRECT 232 0 754 728
+      WNDRECT 586 64 753 728
       SHOW 0
       LASTSEL 1
       DOCKED 0
       BYPASS 0 0 0
       <JS delay/time_adjustment ""
-        0.000000 0.000000 -120.000000 27.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        0.000000 0.000000 -120.000000 32.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
       FXID {A1CB1118-9ED3-4E76-8C2B-AA8CB33F0F27}
@@ -3258,7 +3265,7 @@
         EGUID {B5E6E701-3327-47A6-9DFB-BADDD560B2E4}
         ACT 1 -1
         VIS 0 1 1
-        LANEHEIGHT 0 1
+        LANEHEIGHT 0 0
         ARM 0
         DEFSHAPE 0 -1 -1
         PT 0 32 0
@@ -4050,11 +4057,11 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 2 1 0 0 0 0
     VU 2
     GROUP_FLAGS 0 0 4 4 4 4 4 4 32 32
-    TRACKHEIGHT 25 1 0 0 -1 0
+    TRACKHEIGHT 0 0 0 0 -1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4066,7 +4073,7 @@
       EGUID {7BB3D699-C4FD-4B54-80D5-8DFDD35A4936}
       ACT 1 -1
       VIS 0 1 1
-      LANEHEIGHT 0 1
+      LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
@@ -4096,7 +4103,7 @@
       DOCKED 0
       BYPASS 0 0 0
       <JS delay/time_adjustment ""
-        0.000000 0.000000 -120.000000 -143.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        0.000000 0.000000 -120.000000 -146.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
       FXID {08919DCC-E5A5-4656-920E-0B04187D841C}
@@ -4104,7 +4111,7 @@
         EGUID {05E41F95-ABDF-4CA0-B186-2D55E268D814}
         ACT 1 -1
         VIS 0 1 1
-        LANEHEIGHT 0 1
+        LANEHEIGHT 0 0
         ARM 0
         DEFSHAPE 0 -1 -1
         PT 0 -143 0
@@ -4884,15 +4891,15 @@
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS -143 3
-    ISBUS 2 -1
+    ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 3 1 0 0 0 0
     VU 2
     GROUP_FLAGS 0 0 4 4 4 4 4 4 32 32 0 0 0 0 0 4
-    TRACKHEIGHT 25 1 0 0 -1 0
+    TRACKHEIGHT 0 0 0 0 -1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4904,7 +4911,7 @@
       EGUID {BA64C3EC-ACA2-48A6-AD49-E9124534F4E4}
       ACT 1 -1
       VIS 0 1 1
-      LANEHEIGHT 0 1
+      LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
@@ -4934,7 +4941,7 @@
       DOCKED 0
       BYPASS 0 0 0
       <JS delay/time_adjustment ""
-        0.000000 0.000000 -120.000000 -142.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        0.000000 0.000000 -120.000000 -146.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
       FXID {A79E8338-7F26-40C2-A569-54B6028AF19C}
@@ -4942,7 +4949,7 @@
         EGUID {7D5DE0BA-E20E-46E4-84AE-5537950A611B}
         ACT 1 -1
         VIS 0 1 1
-        LANEHEIGHT 0 1
+        LANEHEIGHT 0 0
         ARM 0
         DEFSHAPE 0 -1 -1
         PT 0 -143 0
