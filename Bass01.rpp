@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.14/x64" 1625434275
+<REAPER_PROJECT 0.1 "6.14/x64" 1643393366
   RIPPLE 0
   GROUPOVERRIDE 1 0 1
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 4 30 0 0 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 54.7947365666805
-  ZOOM 1.90175677919133 0 0
+  CURSOR 29.40189760838012
+  ZOOM 4.62555178619618 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -2382,7 +2382,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 1
-    VOLPAN 0.01807385139568 0 -1 -1 1
+    VOLPAN 0.02897184751173 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -2393,7 +2393,7 @@
     SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 52 0 0 0 -1 0
+    TRACKHEIGHT 188 0 0 0 -1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2422,7 +2422,7 @@
       FLOATPOS 0 0 0 0
       FXID {3CFAD082-4DDE-46BC-8849-CDD5E7D7ABF3}
       WAK 0 0
-      BYPASS 1 0 0
+      BYPASS 0 0 0
       <JS guitar/distort-fuzz ""
         30.000000 -15.000000 0.000000 -60.000000 2.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
@@ -2555,7 +2555,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {F7714693-9CB6-42AF-B4AB-EBCA325EC1EE}
       IID 59
       NAME "Bass Guitar - GotMe.mid"
