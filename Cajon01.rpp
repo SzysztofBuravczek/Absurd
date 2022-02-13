@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.14/x64" 1643396952
+<REAPER_PROJECT 0.1 "6.14/x64" 1643556114
   RIPPLE 0
   GROUPOVERRIDE 1 0 1
   AUTOXFADE 1
@@ -2445,7 +2445,7 @@
       WAK 0 0
       BYPASS 0 0 0
       <JS guitar/amp-model ""
-        "Fender Bassman - Fender Bassman.wav" 0.000000 1.000000 0.000000 95.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        "Fender Bassman - Fender Bassman.wav" 0.000000 1.000000 0.000000 0.000000 -1.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
       FXID {14BE4BA4-6922-4F1D-A3FD-E8AFDCB2E4D8}
@@ -2482,7 +2482,7 @@
       GUID {2A6B44C8-3BF4-4778-9512-08993F366026}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1013.wav"
+        FILE "01-Cajon Bass-201102_1013.wav"
       >
       TAKE SEL
       NAME "01-Cajon Bass-201102_1017.wav"
@@ -2494,7 +2494,7 @@
       GUID {BA89B5A9-0B57-4F39-9EBC-966BC16AE31A}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1017.wav"
+        FILE "01-Cajon Bass-201102_1017.wav"
       >
       TAKE
       NAME "01-Cajon Bass-201102_1020.wav"
@@ -2506,7 +2506,7 @@
       GUID {8F77C953-0265-4F95-A44E-8676288F8D2B}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1020.wav"
+        FILE "01-Cajon Bass-201102_1020.wav"
       >
     >
     <ITEM
@@ -2531,7 +2531,7 @@
       GUID {0EA21003-6715-43CA-B9CB-E5E67A8476F7}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1013.wav"
+        FILE "01-Cajon Bass-201102_1013.wav"
       >
       TAKE SEL
       NAME "01-Cajon Bass-201102_1017.wav"
@@ -2543,7 +2543,7 @@
       GUID {294F8732-4D8C-44C9-8716-8BD72A84CCC1}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1017.wav"
+        FILE "01-Cajon Bass-201102_1017.wav"
       >
       TAKE
       NAME "01-Cajon Bass-201102_1020.wav"
@@ -2555,7 +2555,7 @@
       GUID {8EDAD975-60AB-4FF9-8593-DA50D4580FA9}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1020.wav"
+        FILE "01-Cajon Bass-201102_1020.wav"
       >
     >
     <ITEM
@@ -2580,7 +2580,7 @@
       GUID {A65A7C46-EF2A-4F2B-BC12-591A9B3A7C85}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1013.wav"
+        FILE "01-Cajon Bass-201102_1013.wav"
       >
       TAKE SEL
       NAME "01-Cajon Bass-201102_1017.wav"
@@ -2592,7 +2592,7 @@
       GUID {66698901-90F8-40E9-8585-C3460D7BC538}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1017.wav"
+        FILE "01-Cajon Bass-201102_1017.wav"
       >
       TAKE
       NAME "01-Cajon Bass-201102_1020.wav"
@@ -2604,7 +2604,7 @@
       GUID {C7A9F361-CF59-4B61-A21C-CDE2E3197188}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1020.wav"
+        FILE "01-Cajon Bass-201102_1020.wav"
       >
     >
     <ITEM
@@ -2629,7 +2629,7 @@
       GUID {B39F1B20-DDBC-48B6-AA70-92C16C817F44}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1013.wav"
+        FILE "01-Cajon Bass-201102_1013.wav"
       >
       TAKE SEL
       NAME "01-Cajon Bass-201102_1017.wav"
@@ -2641,7 +2641,7 @@
       GUID {F08AA6BA-DA05-4107-95CD-3591D97836A6}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1017.wav"
+        FILE "01-Cajon Bass-201102_1017.wav"
       >
       TAKE
       NAME "01-Cajon Bass-201102_1020.wav"
@@ -2653,7 +2653,7 @@
       GUID {085E8C10-7C78-42C9-A61E-F27AE157DF6F}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1020.wav"
+        FILE "01-Cajon Bass-201102_1020.wav"
       >
     >
     <ITEM
@@ -2678,7 +2678,7 @@
       GUID {60006008-9A38-4CA2-A3CB-E956F8D5260B}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1013.wav"
+        FILE "01-Cajon Bass-201102_1013.wav"
       >
       TAKE SEL
       NAME "01-Cajon Bass-201102_1017.wav"
@@ -2690,7 +2690,7 @@
       GUID {26A16175-E755-446B-BB6D-D0822A1E3601}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1017.wav"
+        FILE "01-Cajon Bass-201102_1017.wav"
       >
       TAKE
       NAME "01-Cajon Bass-201102_1020.wav"
@@ -2702,7 +2702,7 @@
       GUID {1DEA96E6-5F30-47F0-9D67-F3CC2A33E572}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1020.wav"
+        FILE "01-Cajon Bass-201102_1020.wav"
       >
     >
     <ITEM
@@ -2727,7 +2727,7 @@
       GUID {EB63AF50-3981-48B2-B02C-FB3849318EB5}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1013.wav"
+        FILE "01-Cajon Bass-201102_1013.wav"
       >
       TAKE
       NAME "01-Cajon Bass-201102_1017.wav"
@@ -2739,7 +2739,7 @@
       GUID {72CDC49E-9E86-4CEB-A548-E73F05DD8290}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1017.wav"
+        FILE "01-Cajon Bass-201102_1017.wav"
       >
       TAKE SEL
       NAME "01-Cajon Bass-201102_1020.wav"
@@ -2751,7 +2751,7 @@
       GUID {6D54F77E-C840-49B0-AD3E-330E3C17F9D9}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\01-Cajon Bass-201102_1020.wav"
+        FILE "01-Cajon Bass-201102_1020.wav"
       >
     >
   >
@@ -2835,7 +2835,7 @@
       GUID {54B34021-E760-4E6D-834C-F84036862002}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1013.wav"
+        FILE "02-Cajon Snare-201102_1013.wav"
       >
       TAKE SEL
       NAME "02-Cajon Snare-201102_1017.wav"
@@ -2847,7 +2847,7 @@
       GUID {B10EB852-93CD-40C4-9C86-ED9F1A770F69}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1017.wav"
+        FILE "02-Cajon Snare-201102_1017.wav"
       >
       TAKE
       NAME "02-Cajon Snare-201102_1020.wav"
@@ -2859,7 +2859,7 @@
       GUID {BEB7047A-6499-403E-BABD-DF087102D6B2}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1020.wav"
+        FILE "02-Cajon Snare-201102_1020.wav"
       >
     >
     <ITEM
@@ -2884,7 +2884,7 @@
       GUID {EB0F2B7E-8A9C-42C8-A798-D88A38D0E1D1}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1013.wav"
+        FILE "02-Cajon Snare-201102_1013.wav"
       >
       TAKE SEL
       NAME "02-Cajon Snare-201102_1017.wav"
@@ -2896,7 +2896,7 @@
       GUID {995D9C5E-1A3F-40C3-A60D-4C8323571DD0}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1017.wav"
+        FILE "02-Cajon Snare-201102_1017.wav"
       >
       TAKE
       NAME "02-Cajon Snare-201102_1020.wav"
@@ -2908,7 +2908,7 @@
       GUID {1B537437-9515-4878-A412-7F82B26EFB1A}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1020.wav"
+        FILE "02-Cajon Snare-201102_1020.wav"
       >
     >
     <ITEM
@@ -2933,7 +2933,7 @@
       GUID {15D1FBDB-4325-4D9B-87C9-DDC33C517EE4}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1013.wav"
+        FILE "02-Cajon Snare-201102_1013.wav"
       >
       TAKE SEL
       NAME "02-Cajon Snare-201102_1017.wav"
@@ -2945,7 +2945,7 @@
       GUID {59235AEB-540C-45F0-A49D-54142ED30B83}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1017.wav"
+        FILE "02-Cajon Snare-201102_1017.wav"
       >
       TAKE
       NAME "02-Cajon Snare-201102_1020.wav"
@@ -2957,7 +2957,7 @@
       GUID {070CD9FD-EE5A-4118-82C7-A3B7A6E88744}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1020.wav"
+        FILE "02-Cajon Snare-201102_1020.wav"
       >
     >
     <ITEM
@@ -2982,7 +2982,7 @@
       GUID {896814D0-5A00-45A8-B3EC-0F47477B4AD6}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1013.wav"
+        FILE "02-Cajon Snare-201102_1013.wav"
       >
       TAKE SEL
       NAME "02-Cajon Snare-201102_1017.wav"
@@ -2994,7 +2994,7 @@
       GUID {2EEA675A-5065-4A90-BA36-40C0B6736AED}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1017.wav"
+        FILE "02-Cajon Snare-201102_1017.wav"
       >
       TAKE
       NAME "02-Cajon Snare-201102_1020.wav"
@@ -3006,7 +3006,7 @@
       GUID {3ADD442A-514A-4FB2-8C24-BAC17D3384FB}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1020.wav"
+        FILE "02-Cajon Snare-201102_1020.wav"
       >
     >
     <ITEM
@@ -3031,7 +3031,7 @@
       GUID {B664BE01-2364-4C6F-AF37-838994C6BD50}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1013.wav"
+        FILE "02-Cajon Snare-201102_1013.wav"
       >
       TAKE SEL
       NAME "02-Cajon Snare-201102_1017.wav"
@@ -3043,7 +3043,7 @@
       GUID {5A55D1DC-6BD7-4E35-B4B6-D327FE09D208}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1017.wav"
+        FILE "02-Cajon Snare-201102_1017.wav"
       >
       TAKE
       NAME "02-Cajon Snare-201102_1020.wav"
@@ -3055,7 +3055,7 @@
       GUID {8CE1A8F6-4BD3-4242-B2A2-0BEB9A0D9741}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1020.wav"
+        FILE "02-Cajon Snare-201102_1020.wav"
       >
     >
     <ITEM
@@ -3080,7 +3080,7 @@
       GUID {29501CCC-F642-456A-BD14-E576A11E640F}
       RECPASS 6
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1013.wav"
+        FILE "02-Cajon Snare-201102_1013.wav"
       >
       TAKE
       NAME "02-Cajon Snare-201102_1017.wav"
@@ -3092,7 +3092,7 @@
       GUID {10E64D29-8341-44C0-B336-039E0701E112}
       RECPASS 7
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1017.wav"
+        FILE "02-Cajon Snare-201102_1017.wav"
       >
       TAKE SEL
       NAME "02-Cajon Snare-201102_1020.wav"
@@ -3104,7 +3104,7 @@
       GUID {8402CAD5-D522-4337-900A-3313525E03DC}
       RECPASS 8
       <SOURCE WAVE
-        FILE "D:\Absurd\02-Cajon Snare-201102_1020.wav"
+        FILE "02-Cajon Snare-201102_1020.wav"
       >
     >
   >

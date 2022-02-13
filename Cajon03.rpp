@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.14/x64" 1625437145
+<REAPER_PROJECT 0.1 "6.14/x64" 1643556117
   RIPPLE 0
   GROUPOVERRIDE 1 0 1
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 1 5 4 30 0 0 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 431.51260875653492
+  CURSOR 423.37810906682421
   ZOOM 0.95989847206733 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
@@ -2382,7 +2382,7 @@
     PEAKCOL 16576
     BEAT 0
     AUTOMODE 0
-    VOLPAN 0.47259462407974 0 -1 -1 1
+    VOLPAN 0.02897184751173 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -2445,7 +2445,7 @@
       WAK 0 0
       BYPASS 0 0 0
       <JS guitar/amp-model ""
-        "Fender Bassman - Fender Bassman.wav" 0.000000 1.000000 0.000000 95.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        "Fender Bassman - Fender Bassman.wav" 0.000000 1.000000 0.000000 0.000000 -1.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
       FXID {5C01C3F4-1442-492E-9C1C-682DFE2D2BCA}
@@ -2526,7 +2526,7 @@
     PEAKCOL 16576
     BEAT 0
     AUTOMODE 0
-    VOLPAN 3.3806724625664 0 -1 -1 1
+    VOLPAN 0.20724807706665 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -2645,7 +2645,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 2
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.06130380253085 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -2775,7 +2775,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.06130380253085 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1

@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.14/x64" 1625435103
+<REAPER_PROJECT 0.1 "6.14/x64" 1643556108
   RIPPLE 0
   GROUPOVERRIDE 1 0 1
   AUTOXFADE 1
@@ -2530,7 +2530,7 @@
       WAK 0 0
       BYPASS 0 0 0
       <JS guitar/amp-model ""
-        "Fender Bassman - Fender Bassman.wav" 12.000000 1.000000 0.000000 95.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        "Fender Bassman - Fender Bassman.wav" 12.000000 1.000000 0.000000 0.000000 -1.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
       FXID {77FE38F8-D5DB-4A93-ABB8-25CDDC66F35B}

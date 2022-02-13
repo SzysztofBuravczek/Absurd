@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.14/x64" 1643396952
+<REAPER_PROJECT 0.1 "6.14/x64" 1643556078
   RIPPLE 0
   GROUPOVERRIDE 0 0 1
   AUTOXFADE 1
@@ -2460,7 +2460,7 @@
       GUID {E1FBEC0D-DF3D-49DD-9854-9133A89E7670}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1004.wav"
+        FILE "03-Guitar Mic-201116_1004.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1009.wav"
@@ -2472,7 +2472,7 @@
       GUID {024D59D1-A427-4142-B300-3A94530D4708}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1009.wav"
+        FILE "03-Guitar Mic-201116_1009.wav"
       >
       TAKE SEL
       NAME "03-Guitar Mic-201116_1013.wav"
@@ -2484,7 +2484,7 @@
       GUID {65F43D9E-FB6B-4050-B0E4-1E6E20D675C2}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1013.wav"
+        FILE "03-Guitar Mic-201116_1013.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1017.wav"
@@ -2496,7 +2496,7 @@
       GUID {22C498EA-4516-4FC9-AC14-B96AA6CFE8F4}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1017.wav"
+        FILE "03-Guitar Mic-201116_1017.wav"
       >
     >
     <ITEM
@@ -2520,7 +2520,7 @@
       GUID {9007C286-2071-464E-AE68-2764905056FB}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1004.wav"
+        FILE "03-Guitar Mic-201116_1004.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1009.wav"
@@ -2532,7 +2532,7 @@
       GUID {F5EB11E3-B263-4A93-81B8-A39D2CCB64AF}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1009.wav"
+        FILE "03-Guitar Mic-201116_1009.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1013.wav"
@@ -2544,7 +2544,7 @@
       GUID {CED879B2-BA35-4033-9DCB-41245A0A5F93}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1013.wav"
+        FILE "03-Guitar Mic-201116_1013.wav"
       >
       TAKE SEL
       NAME "03-Guitar Mic-201116_1017.wav"
@@ -2556,7 +2556,7 @@
       GUID {8EF879C0-7C4E-41F4-96FC-F722DAA94F2A}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1017.wav"
+        FILE "03-Guitar Mic-201116_1017.wav"
       >
     >
     <ITEM
@@ -2580,7 +2580,7 @@
       GUID {5A7D1A41-69D0-4416-A0DF-D6786E9D6016}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1004.wav"
+        FILE "03-Guitar Mic-201116_1004.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1009.wav"
@@ -2592,7 +2592,7 @@
       GUID {D15F76F5-618B-41FD-BB32-47BB5EAAD675}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1009.wav"
+        FILE "03-Guitar Mic-201116_1009.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1013.wav"
@@ -2604,7 +2604,7 @@
       GUID {7ADD21A6-CFAC-4D32-9785-841644F753B0}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1013.wav"
+        FILE "03-Guitar Mic-201116_1013.wav"
       >
       TAKE SEL
       NAME "03-Guitar Mic-201116_1017.wav"
@@ -2616,7 +2616,7 @@
       GUID {FCED67C1-800E-480C-8E2A-767CAF2C0ADC}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1017.wav"
+        FILE "03-Guitar Mic-201116_1017.wav"
       >
     >
     <ITEM
@@ -2640,7 +2640,7 @@
       GUID {6B094984-C21F-4726-B825-BD1F09A8942A}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1004.wav"
+        FILE "03-Guitar Mic-201116_1004.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1009.wav"
@@ -2652,7 +2652,7 @@
       GUID {0BC55733-A1CA-42A2-89E1-49E756F044FD}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1009.wav"
+        FILE "03-Guitar Mic-201116_1009.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1013.wav"
@@ -2664,7 +2664,7 @@
       GUID {A8F1A88E-2F76-4021-BCDD-DAE836C0D0E7}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1013.wav"
+        FILE "03-Guitar Mic-201116_1013.wav"
       >
       TAKE SEL
       NAME "03-Guitar Mic-201116_1017.wav"
@@ -2676,7 +2676,7 @@
       GUID {8DE1B631-7E2C-4111-9835-0FC9E6F0DD9F}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1017.wav"
+        FILE "03-Guitar Mic-201116_1017.wav"
       >
     >
     <ITEM
@@ -2700,7 +2700,7 @@
       GUID {1DA1B80F-9AA6-4D8F-999E-4244D6B4CDE2}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1004.wav"
+        FILE "03-Guitar Mic-201116_1004.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1009.wav"
@@ -2712,7 +2712,7 @@
       GUID {E9A9267E-C668-419B-9336-A8ED709C78DD}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1009.wav"
+        FILE "03-Guitar Mic-201116_1009.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1013.wav"
@@ -2724,7 +2724,7 @@
       GUID {DD64D8FE-FAFE-4373-B2CE-C25DA70F9291}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1013.wav"
+        FILE "03-Guitar Mic-201116_1013.wav"
       >
       TAKE SEL
       NAME "03-Guitar Mic-201116_1017.wav"
@@ -2736,7 +2736,7 @@
       GUID {715138B6-F2B5-4F81-A3EE-BC1C9B188158}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1017.wav"
+        FILE "03-Guitar Mic-201116_1017.wav"
       >
     >
     <ITEM
@@ -2760,7 +2760,7 @@
       GUID {750ADA1C-50D8-49C6-B3F1-C95FDE5325E4}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1004.wav"
+        FILE "03-Guitar Mic-201116_1004.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1009.wav"
@@ -2772,7 +2772,7 @@
       GUID {B77AE7B5-C9BE-4260-8F3D-41D7D08AC56E}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1009.wav"
+        FILE "03-Guitar Mic-201116_1009.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1013.wav"
@@ -2784,7 +2784,7 @@
       GUID {B7F55FC2-31E0-4EAB-837E-39444B8C58AE}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1013.wav"
+        FILE "03-Guitar Mic-201116_1013.wav"
       >
       TAKE SEL
       NAME "03-Guitar Mic-201116_1017.wav"
@@ -2796,7 +2796,7 @@
       GUID {B48EC8B4-3732-4F9D-80FF-D9327140E5F9}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1017.wav"
+        FILE "03-Guitar Mic-201116_1017.wav"
       >
     >
     <ITEM
@@ -2820,7 +2820,7 @@
       GUID {2F53EBBD-9526-404A-83BA-4249FE0DF891}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1004.wav"
+        FILE "03-Guitar Mic-201116_1004.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1009.wav"
@@ -2832,7 +2832,7 @@
       GUID {22AD8A2E-BF86-4CA3-8D6A-36720144462C}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1009.wav"
+        FILE "03-Guitar Mic-201116_1009.wav"
       >
       TAKE
       NAME "03-Guitar Mic-201116_1013.wav"
@@ -2844,7 +2844,7 @@
       GUID {CD528E0C-E02B-4C35-950C-1C390A027703}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1013.wav"
+        FILE "03-Guitar Mic-201116_1013.wav"
       >
       TAKE SEL
       NAME "03-Guitar Mic-201116_1017.wav"
@@ -2856,7 +2856,7 @@
       GUID {D0BE78D9-3541-4B31-A892-725110C7904C}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\03-Guitar Mic-201116_1017.wav"
+        FILE "03-Guitar Mic-201116_1017.wav"
       >
     >
   >
@@ -2955,7 +2955,7 @@
       GUID {792B0C59-03D0-4F26-9990-AD772BB54916}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1004.wav"
+        FILE "04-Guitar Dir-201116_1004.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1009.wav"
@@ -2967,7 +2967,7 @@
       GUID {B188CC8F-903A-4F9D-BDCE-197FE52BC678}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1009.wav"
+        FILE "04-Guitar Dir-201116_1009.wav"
       >
       TAKE SEL
       NAME "04-Guitar Dir-201116_1013.wav"
@@ -2979,7 +2979,7 @@
       GUID {A4344351-744C-4AB9-B4EF-977C13E771E2}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1013.wav"
+        FILE "04-Guitar Dir-201116_1013.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1017.wav"
@@ -2991,7 +2991,7 @@
       GUID {211EF4ED-F487-4735-B2B8-E75AFEDB8C7F}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1017.wav"
+        FILE "04-Guitar Dir-201116_1017.wav"
       >
     >
     <ITEM
@@ -3015,7 +3015,7 @@
       GUID {ED51FB6C-F38B-44EF-B916-B735112ED371}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1004.wav"
+        FILE "04-Guitar Dir-201116_1004.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1009.wav"
@@ -3027,7 +3027,7 @@
       GUID {120D6C50-CFE0-46B8-8E9D-B79D5D9EF82C}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1009.wav"
+        FILE "04-Guitar Dir-201116_1009.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1013.wav"
@@ -3039,7 +3039,7 @@
       GUID {45D64670-A38C-4944-8354-C5461BAFFF76}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1013.wav"
+        FILE "04-Guitar Dir-201116_1013.wav"
       >
       TAKE SEL
       NAME "04-Guitar Dir-201116_1017.wav"
@@ -3051,7 +3051,7 @@
       GUID {9C03DC8C-0D88-40EC-9568-FD3761EFE4E6}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1017.wav"
+        FILE "04-Guitar Dir-201116_1017.wav"
       >
     >
     <ITEM
@@ -3075,7 +3075,7 @@
       GUID {6BFDC65E-B659-4CC4-AA78-80C391521C3A}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1004.wav"
+        FILE "04-Guitar Dir-201116_1004.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1009.wav"
@@ -3087,7 +3087,7 @@
       GUID {EEA597AC-8C9C-4D5B-BE4D-F395002B1654}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1009.wav"
+        FILE "04-Guitar Dir-201116_1009.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1013.wav"
@@ -3099,7 +3099,7 @@
       GUID {20943A2E-5DFC-4C12-BA8E-07197430246E}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1013.wav"
+        FILE "04-Guitar Dir-201116_1013.wav"
       >
       TAKE SEL
       NAME "04-Guitar Dir-201116_1017.wav"
@@ -3111,7 +3111,7 @@
       GUID {F011A561-6CBA-4312-87DC-76C35A525B69}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1017.wav"
+        FILE "04-Guitar Dir-201116_1017.wav"
       >
     >
     <ITEM
@@ -3135,7 +3135,7 @@
       GUID {CA6AF85F-9562-4DBA-B01C-7963FA19510E}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1004.wav"
+        FILE "04-Guitar Dir-201116_1004.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1009.wav"
@@ -3147,7 +3147,7 @@
       GUID {FCC62E92-DE66-4254-8A60-6AEC9968D62E}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1009.wav"
+        FILE "04-Guitar Dir-201116_1009.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1013.wav"
@@ -3159,7 +3159,7 @@
       GUID {31F5EFB2-40EF-4609-B66C-3B55585D9184}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1013.wav"
+        FILE "04-Guitar Dir-201116_1013.wav"
       >
       TAKE SEL
       NAME "04-Guitar Dir-201116_1017.wav"
@@ -3171,7 +3171,7 @@
       GUID {2F745C12-7F06-4D81-B30C-B0D04077D3E0}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1017.wav"
+        FILE "04-Guitar Dir-201116_1017.wav"
       >
     >
     <ITEM
@@ -3195,7 +3195,7 @@
       GUID {E40FFE68-01C9-4466-9A00-FDB7AAB293BD}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1004.wav"
+        FILE "04-Guitar Dir-201116_1004.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1009.wav"
@@ -3207,7 +3207,7 @@
       GUID {BFEEBDE5-1D7C-4747-8269-E3FCE2E6004D}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1009.wav"
+        FILE "04-Guitar Dir-201116_1009.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1013.wav"
@@ -3219,7 +3219,7 @@
       GUID {CF27D239-3FB8-46D2-992B-9D767CB433C4}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1013.wav"
+        FILE "04-Guitar Dir-201116_1013.wav"
       >
       TAKE SEL
       NAME "04-Guitar Dir-201116_1017.wav"
@@ -3231,7 +3231,7 @@
       GUID {EE6B48FE-81AC-48BC-8C40-20664DE3DB4D}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1017.wav"
+        FILE "04-Guitar Dir-201116_1017.wav"
       >
     >
     <ITEM
@@ -3255,7 +3255,7 @@
       GUID {FBF44984-BDFD-4781-BC5D-AAB59F61CC19}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1004.wav"
+        FILE "04-Guitar Dir-201116_1004.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1009.wav"
@@ -3267,7 +3267,7 @@
       GUID {0EF44948-AE2B-4B47-90CB-E826A7E1B70F}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1009.wav"
+        FILE "04-Guitar Dir-201116_1009.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1013.wav"
@@ -3279,7 +3279,7 @@
       GUID {C69E9509-A321-4CDD-A024-CC730564FDE0}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1013.wav"
+        FILE "04-Guitar Dir-201116_1013.wav"
       >
       TAKE SEL
       NAME "04-Guitar Dir-201116_1017.wav"
@@ -3291,7 +3291,7 @@
       GUID {9D5FB5A7-6314-469D-8F9F-DA598D3B3DE6}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1017.wav"
+        FILE "04-Guitar Dir-201116_1017.wav"
       >
     >
     <ITEM
@@ -3315,7 +3315,7 @@
       GUID {95EADA88-4124-4702-B476-FE5212A0356F}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1004.wav"
+        FILE "04-Guitar Dir-201116_1004.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1009.wav"
@@ -3327,7 +3327,7 @@
       GUID {B0133F33-35E4-4927-9148-CC8FC38993CC}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1009.wav"
+        FILE "04-Guitar Dir-201116_1009.wav"
       >
       TAKE
       NAME "04-Guitar Dir-201116_1013.wav"
@@ -3339,7 +3339,7 @@
       GUID {85098D11-AB66-4477-94B0-4D16D7C58D63}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1013.wav"
+        FILE "04-Guitar Dir-201116_1013.wav"
       >
       TAKE SEL
       NAME "04-Guitar Dir-201116_1017.wav"
@@ -3351,7 +3351,7 @@
       GUID {34B5E526-84C1-42CF-A194-860BED2CE44A}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\04-Guitar Dir-201116_1017.wav"
+        FILE "04-Guitar Dir-201116_1017.wav"
       >
     >
   >
@@ -3438,7 +3438,7 @@
       GUID {3E38A0E4-E5D6-4517-A457-EBD762C45F1E}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1004.wav"
+        FILE "05-Guitar Strings L-201116_1004.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1009.wav"
@@ -3450,7 +3450,7 @@
       GUID {D369B270-55CE-4A78-9A7B-5F0F5C5E2F0A}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1009.wav"
+        FILE "05-Guitar Strings L-201116_1009.wav"
       >
       TAKE SEL
       NAME "05-Guitar Strings L-201116_1013.wav"
@@ -3462,7 +3462,7 @@
       GUID {A9374BDD-100F-4BAC-8494-E1319A28835A}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1013.wav"
+        FILE "05-Guitar Strings L-201116_1013.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1017.wav"
@@ -3474,7 +3474,7 @@
       GUID {A50D301A-1FF7-417A-82A8-8D1D37C62CA1}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1017.wav"
+        FILE "05-Guitar Strings L-201116_1017.wav"
       >
     >
     <ITEM
@@ -3498,7 +3498,7 @@
       GUID {E9D9A013-D741-4529-A504-8BDCC632E55F}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1004.wav"
+        FILE "05-Guitar Strings L-201116_1004.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1009.wav"
@@ -3510,7 +3510,7 @@
       GUID {E6EFE712-AABC-4AC3-BF38-8E9DE03A22CA}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1009.wav"
+        FILE "05-Guitar Strings L-201116_1009.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1013.wav"
@@ -3522,7 +3522,7 @@
       GUID {6A05274B-505B-4A17-B97F-55A6FE3CBEB5}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1013.wav"
+        FILE "05-Guitar Strings L-201116_1013.wav"
       >
       TAKE SEL
       NAME "05-Guitar Strings L-201116_1017.wav"
@@ -3534,7 +3534,7 @@
       GUID {9349409C-E200-47A9-9365-D544099C3293}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1017.wav"
+        FILE "05-Guitar Strings L-201116_1017.wav"
       >
     >
     <ITEM
@@ -3558,7 +3558,7 @@
       GUID {7E211AC6-40B1-4FCF-9173-9AAB919495DE}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1004.wav"
+        FILE "05-Guitar Strings L-201116_1004.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1009.wav"
@@ -3570,7 +3570,7 @@
       GUID {F48088B2-2907-4D55-BA68-246ADA79A6CC}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1009.wav"
+        FILE "05-Guitar Strings L-201116_1009.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1013.wav"
@@ -3582,7 +3582,7 @@
       GUID {4FC4ACC6-BCFD-4D4E-AB6C-422156C10DF7}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1013.wav"
+        FILE "05-Guitar Strings L-201116_1013.wav"
       >
       TAKE SEL
       NAME "05-Guitar Strings L-201116_1017.wav"
@@ -3594,7 +3594,7 @@
       GUID {9E760BCA-78BB-4E60-8AC9-6BAA3D3B7C1F}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1017.wav"
+        FILE "05-Guitar Strings L-201116_1017.wav"
       >
     >
     <ITEM
@@ -3618,7 +3618,7 @@
       GUID {A23091ED-42ED-4089-8AB9-E51D67B8D2C8}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1004.wav"
+        FILE "05-Guitar Strings L-201116_1004.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1009.wav"
@@ -3630,7 +3630,7 @@
       GUID {C9E037D4-33F2-4EAE-88C6-496935E6D648}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1009.wav"
+        FILE "05-Guitar Strings L-201116_1009.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1013.wav"
@@ -3642,7 +3642,7 @@
       GUID {4A0EC777-04E0-4EAD-B748-605E5EF07805}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1013.wav"
+        FILE "05-Guitar Strings L-201116_1013.wav"
       >
       TAKE SEL
       NAME "05-Guitar Strings L-201116_1017.wav"
@@ -3654,7 +3654,7 @@
       GUID {E0D509BE-E489-4742-AAED-6ADB03472CD4}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1017.wav"
+        FILE "05-Guitar Strings L-201116_1017.wav"
       >
     >
     <ITEM
@@ -3678,7 +3678,7 @@
       GUID {054838F8-672F-443A-8CB0-BA9146EA72FD}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1004.wav"
+        FILE "05-Guitar Strings L-201116_1004.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1009.wav"
@@ -3690,7 +3690,7 @@
       GUID {A491BF88-ED58-434B-A903-2CE0266C08ED}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1009.wav"
+        FILE "05-Guitar Strings L-201116_1009.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1013.wav"
@@ -3702,7 +3702,7 @@
       GUID {5E0241EC-0BF3-451D-A60E-FE3659BCA0D1}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1013.wav"
+        FILE "05-Guitar Strings L-201116_1013.wav"
       >
       TAKE SEL
       NAME "05-Guitar Strings L-201116_1017.wav"
@@ -3714,7 +3714,7 @@
       GUID {2BAB5CEE-F4A1-4AD3-A508-7CAB202FD34E}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1017.wav"
+        FILE "05-Guitar Strings L-201116_1017.wav"
       >
     >
     <ITEM
@@ -3738,7 +3738,7 @@
       GUID {DBEFB29D-1CDF-45BD-BCEC-38FF8143F325}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1004.wav"
+        FILE "05-Guitar Strings L-201116_1004.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1009.wav"
@@ -3750,7 +3750,7 @@
       GUID {2AB7E49C-0B73-46FC-8D5B-0AF291E2AE75}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1009.wav"
+        FILE "05-Guitar Strings L-201116_1009.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1013.wav"
@@ -3762,7 +3762,7 @@
       GUID {B1028772-9EBB-488C-BB70-6AA79568216A}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1013.wav"
+        FILE "05-Guitar Strings L-201116_1013.wav"
       >
       TAKE SEL
       NAME "05-Guitar Strings L-201116_1017.wav"
@@ -3774,7 +3774,7 @@
       GUID {DFE2CDF2-2920-49A2-8CB2-BB846332EF01}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1017.wav"
+        FILE "05-Guitar Strings L-201116_1017.wav"
       >
     >
     <ITEM
@@ -3798,7 +3798,7 @@
       GUID {9F3814B0-B7BD-4907-AB06-1EC95D1A50F7}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1004.wav"
+        FILE "05-Guitar Strings L-201116_1004.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1009.wav"
@@ -3810,7 +3810,7 @@
       GUID {01F4E9F3-E936-4352-9F8A-448A40D0CC72}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1009.wav"
+        FILE "05-Guitar Strings L-201116_1009.wav"
       >
       TAKE
       NAME "05-Guitar Strings L-201116_1013.wav"
@@ -3822,7 +3822,7 @@
       GUID {F22AE6EB-3DFB-4692-9D98-4383A75F48C6}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1013.wav"
+        FILE "05-Guitar Strings L-201116_1013.wav"
       >
       TAKE SEL
       NAME "05-Guitar Strings L-201116_1017.wav"
@@ -3834,7 +3834,7 @@
       GUID {CFE3716D-D682-40D2-9235-1704328B8930}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\05-Guitar Strings L-201116_1017.wav"
+        FILE "05-Guitar Strings L-201116_1017.wav"
       >
     >
   >
@@ -3921,7 +3921,7 @@
       GUID {DBF5405D-5F59-463B-A2A4-BC75A5B57CFD}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1004.wav"
+        FILE "06-Guitar Strings R-201116_1004.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1009.wav"
@@ -3933,7 +3933,7 @@
       GUID {BD3003E8-B016-48CC-AE0B-F13E676FCF1D}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1009.wav"
+        FILE "06-Guitar Strings R-201116_1009.wav"
       >
       TAKE SEL
       NAME "06-Guitar Strings R-201116_1013.wav"
@@ -3945,7 +3945,7 @@
       GUID {E7B6E5EA-91F9-4372-99BA-775589A5FBFD}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1013.wav"
+        FILE "06-Guitar Strings R-201116_1013.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1017.wav"
@@ -3957,7 +3957,7 @@
       GUID {EBD9D638-C82C-4FB3-B8BC-86D3DF9E99DD}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1017.wav"
+        FILE "06-Guitar Strings R-201116_1017.wav"
       >
     >
     <ITEM
@@ -3981,7 +3981,7 @@
       GUID {194540F2-52DB-45CE-90DF-B96AB3D3D53E}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1004.wav"
+        FILE "06-Guitar Strings R-201116_1004.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1009.wav"
@@ -3993,7 +3993,7 @@
       GUID {244D4841-A97A-4340-9D67-807EEC03DC98}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1009.wav"
+        FILE "06-Guitar Strings R-201116_1009.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1013.wav"
@@ -4005,7 +4005,7 @@
       GUID {EBC59D6C-5DF5-4EAE-8613-3F2460351CF7}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1013.wav"
+        FILE "06-Guitar Strings R-201116_1013.wav"
       >
       TAKE SEL
       NAME "06-Guitar Strings R-201116_1017.wav"
@@ -4017,7 +4017,7 @@
       GUID {0D26079D-5338-4666-B5AC-49EF3343EA23}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1017.wav"
+        FILE "06-Guitar Strings R-201116_1017.wav"
       >
     >
     <ITEM
@@ -4041,7 +4041,7 @@
       GUID {B9EA9FEC-DCDB-4548-8C6B-C628A1AB392F}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1004.wav"
+        FILE "06-Guitar Strings R-201116_1004.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1009.wav"
@@ -4053,7 +4053,7 @@
       GUID {B55419FD-62AC-4212-807B-61069371223F}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1009.wav"
+        FILE "06-Guitar Strings R-201116_1009.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1013.wav"
@@ -4065,7 +4065,7 @@
       GUID {20CB22C7-8285-487D-AFE6-22B9B9210CFC}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1013.wav"
+        FILE "06-Guitar Strings R-201116_1013.wav"
       >
       TAKE SEL
       NAME "06-Guitar Strings R-201116_1017.wav"
@@ -4077,7 +4077,7 @@
       GUID {41F549F6-A597-41A7-970F-D2C7D3E0850F}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1017.wav"
+        FILE "06-Guitar Strings R-201116_1017.wav"
       >
     >
     <ITEM
@@ -4101,7 +4101,7 @@
       GUID {87C76D19-61DF-42DA-973D-F9B552BA7F44}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1004.wav"
+        FILE "06-Guitar Strings R-201116_1004.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1009.wav"
@@ -4113,7 +4113,7 @@
       GUID {BB2D427D-896A-4411-A055-B7ABA6528101}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1009.wav"
+        FILE "06-Guitar Strings R-201116_1009.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1013.wav"
@@ -4125,7 +4125,7 @@
       GUID {4C3DEEE4-E5BF-43E8-9064-CB5FDAEBB39D}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1013.wav"
+        FILE "06-Guitar Strings R-201116_1013.wav"
       >
       TAKE SEL
       NAME "06-Guitar Strings R-201116_1017.wav"
@@ -4137,7 +4137,7 @@
       GUID {A670EA2B-A38C-436B-9964-4D10A34CD2BB}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1017.wav"
+        FILE "06-Guitar Strings R-201116_1017.wav"
       >
     >
     <ITEM
@@ -4161,7 +4161,7 @@
       GUID {66960E41-16FE-4D4A-937B-2BD6C9E9AF54}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1004.wav"
+        FILE "06-Guitar Strings R-201116_1004.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1009.wav"
@@ -4173,7 +4173,7 @@
       GUID {4EF476EE-5CF6-4A95-BA06-55FB7EE1E1C0}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1009.wav"
+        FILE "06-Guitar Strings R-201116_1009.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1013.wav"
@@ -4185,7 +4185,7 @@
       GUID {C4D23307-DE4B-4999-AE73-6C7A17CFA279}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1013.wav"
+        FILE "06-Guitar Strings R-201116_1013.wav"
       >
       TAKE SEL
       NAME "06-Guitar Strings R-201116_1017.wav"
@@ -4197,7 +4197,7 @@
       GUID {173D8C87-73F5-40B0-8362-BF7BC89F0F7F}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1017.wav"
+        FILE "06-Guitar Strings R-201116_1017.wav"
       >
     >
     <ITEM
@@ -4221,7 +4221,7 @@
       GUID {B552593A-2F39-464B-A6EB-FEB7EF3BCCCF}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1004.wav"
+        FILE "06-Guitar Strings R-201116_1004.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1009.wav"
@@ -4233,7 +4233,7 @@
       GUID {E7570030-6851-4C7B-B80B-CF72B77872A8}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1009.wav"
+        FILE "06-Guitar Strings R-201116_1009.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1013.wav"
@@ -4245,7 +4245,7 @@
       GUID {850BE8F4-C267-43D4-9051-58BA2CE7A78D}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1013.wav"
+        FILE "06-Guitar Strings R-201116_1013.wav"
       >
       TAKE SEL
       NAME "06-Guitar Strings R-201116_1017.wav"
@@ -4257,7 +4257,7 @@
       GUID {2F5E6C60-ACC5-46C9-90A3-7AAAF93E2757}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1017.wav"
+        FILE "06-Guitar Strings R-201116_1017.wav"
       >
     >
     <ITEM
@@ -4281,7 +4281,7 @@
       GUID {3D7DB5A2-63C8-4BAD-931A-35EC313E949B}
       RECPASS 71
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1004.wav"
+        FILE "06-Guitar Strings R-201116_1004.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1009.wav"
@@ -4293,7 +4293,7 @@
       GUID {1FDF088B-FA6F-4A9C-8417-BBBF8537DBF3}
       RECPASS 72
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1009.wav"
+        FILE "06-Guitar Strings R-201116_1009.wav"
       >
       TAKE
       NAME "06-Guitar Strings R-201116_1013.wav"
@@ -4305,7 +4305,7 @@
       GUID {6085F93A-7EA8-4F7B-9EC5-9F9F175F4B74}
       RECPASS 73
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1013.wav"
+        FILE "06-Guitar Strings R-201116_1013.wav"
       >
       TAKE SEL
       NAME "06-Guitar Strings R-201116_1017.wav"
@@ -4317,7 +4317,7 @@
       GUID {2AEB673F-ACD4-4FF0-A780-446E3B2A1F48}
       RECPASS 74
       <SOURCE WAVE
-        FILE "D:\Absurd\06-Guitar Strings R-201116_1017.wav"
+        FILE "06-Guitar Strings R-201116_1017.wav"
       >
     >
   >

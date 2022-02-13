@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.14/x64" 1625695519
+<REAPER_PROJECT 0.1 "6.14/x64" 1643556125
   RIPPLE 0
   GROUPOVERRIDE 1 0 1
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 1 5 4 30 0 0 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 1326.9296835030627
+  CURSOR 1252.6037314337671
   ZOOM 0.78189133196893 597 0
   VZOOMEX 6 0
   USE_REC_CFG 0
@@ -66,7 +66,7 @@
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
   MASTER_FX 1
-  MASTER_SEL 1
+  MASTER_SEL 0
   <MASTERPLAYSPEEDENV
     EGUID {46AAC354-531A-442F-B98B-A84AB0CA5B51}
     ACT 0 -1
@@ -2382,7 +2382,7 @@
     PEAKCOL 16576
     BEAT 0
     AUTOMODE 0
-    VOLPAN 0.09102963621282 0 -1 -1 1
+    VOLPAN 0.02897184751173 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -2390,7 +2390,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 2 1 0 0 0 0
     VU 2
     GROUP_FLAGS 0 0 0 0 1 1 1 1 1 1
@@ -2445,7 +2445,7 @@
       WAK 0 0
       BYPASS 0 0 0
       <JS guitar/amp-model ""
-        "Fender Bassman - Fender Bassman.wav" 0.000000 1.000000 0.000000 95.000000 256.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        "Fender Bassman - Fender Bassman.wav" 0.000000 1.000000 0.000000 0.000000 -1.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
       FXID {F5FF5176-4C7C-4175-AE65-3581CE0C23D9}
@@ -11846,7 +11846,7 @@
     PEAKCOL 16576
     BEAT 0
     AUTOMODE 0
-    VOLPAN 0.65117411147315 0 -1 -1 1
+    VOLPAN 0.20724807706666 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -11854,7 +11854,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 1024 1 0 0 0 0
     VU 2
     GROUP_FLAGS 0 0 0 0 1 1 1 1 1 1
@@ -21295,7 +21295,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 25 0 0 0 -1 0
@@ -21417,7 +21417,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.1926167408063 0 -1 -1 1
+    VOLPAN 0.06130380253085 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -21425,7 +21425,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 5088 1 0 0 0 0
     VU 2
     TRACKHEIGHT 25 0 0 0 -1 0

@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.14/x64" 1643556138
+<REAPER_PROJECT 0.1 "6.14/x64" 1644084331
   RIPPLE 0
   GROUPOVERRIDE 1 0 1
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 4 30 0 0 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 1246.387202664069
-  ZOOM 0.36857320456562 0 0
-  VZOOMEX 6 0
+  CURSOR 614.16581736131593
+  ZOOM 14.470880098542 8601 0
+  VZOOMEX 40 657
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -24,51 +24,105 @@
   LOOPGRAN 0 4
   RECORD_PATH "" ""
   <RECORD_CFG
+    ZXZhdxgAAA==
   >
   <APPLYFX_CFG
   >
   RENDER_FILE ""
-  RENDER_PATTERN ""
+  RENDER_PATTERN "Szysztof Zaseli refrain"
   RENDER_FMT 0 2 0
   RENDER_1X 0
-  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RANGE 2 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
   RENDER_ADDTOPROJ 0
-  RENDER_STEMS 0
+  RENDER_STEMS 512
   RENDER_DITHER 0
-  TIMELOCKMODE 1
+  <RENDER_METADATA
+    TAG ID3:TALB Абсурд
+    TAG ID3:TIT2 $region
+    TAG ID3:TPE1 "Шиштоф Буравчек"
+    TAG ID3:TYER 2021
+  >
+  TIMELOCKMODE 0
   TEMPOENVLOCKMODE 1
   ITEMMIX 0
   DEFPITCHMODE 589824 0
   TAKELANE 1
   SAMPLERATE 44100 1 0
   <RENDER_CFG
+    ZXZhdxgAAA==
   >
-  LOCK 1
+  LOCK 64
   <METRONOME 6 2
-    VOL 0.25 0.125
+    VOL 0.580716 0.312661
     FREQ 800 1600 1
     BEATLEN 4
     SAMPLES "" ""
     PATTERN 2863311530 2863311529
   >
   GLOBAL_AUTO -1
-  TEMPO 179.9996400007 4 4
+  TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 1246.387202664069 1513.7872026640691
-  SELECTION2 1246.387202664069 1513.7872026640691
+  GROUPS_DISABLED 1 0
+  GROUP_NAME 0 Drums
+  GROUP_NAME 1 "Guitar Amp"
+  GROUP_NAME 2 "Guitar Strings"
+  GROUP_NAME 3 "GSolo Amp"
+  GROUP_NAME 4 "GSolo Strings"
+  GROUP_NAME 5 Guitar
+  GROUP_NAME 6 GSolo
+  GROUP_NAME 7 "Voice Stereo"
+  SELECTION 604.83246536131492 652.52182580078647
+  SELECTION2 604.83246536131492 652.52182580078647
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
-  MASTER_FX 1
+  MASTER_FX 0
   MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 483 267 754 461
+    SHOW 0
+    LASTSEL 2
+    DOCKED 0
+    BYPASS 1 0 0
+    <JS loser/masterLimiter ""
+      -1.300000 54.000000 8.000000 0.000000 34.000000 0.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    >
+    FLOATPOS 0 0 0 0
+    FXID {0424794F-8086-429E-8792-DD5B698C0FDA}
+    WAK 0 0
+    BYPASS 1 0 0
+    <JS utility/volume ""
+      7.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    >
+    FLOATPOS 0 0 0 0
+    FXID {75CBDFAB-FB37-4728-89EC-518A421E8C41}
+    WAK 0 0
+    BYPASS 0 0 0
+    <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+      cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAqAAAAAEAAAAAABAA
+      IQAAAAQAAAAAAAAAAQAAAICXO4/jalNAHGSTuCyL8T8AAAAAAAAAQAEIAAAAAQAAAAhYBKo8SXZAMPyDGlqV9T8AAAAAAAAAQAEIAAAAAQAAAMThWAOgN41Agr3Zj6uc
+      9D8AAAAAAAAAQAEBAAAAAQAAANRRB9owkrRA1x6Gzw0W9j8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAA8CAABhAQAA
+      AAAQAAAA
+    >
+    FLOATPOS 0 0 0 0
+    FXID {27398929-73BD-411E-9B7D-62B89E728D3D}
+    WAK 0 0
+    BYPASS 0 0 0
+    <JS schwa/soft_clipper ""
+      0.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    >
+    FLOATPOS 0 0 0 0
+    FXID {502900E0-FE1C-4EF3-8F12-B419C1F8CE2B}
+    WAK 0 0
+  >
   <MASTERPLAYSPEEDENV
-    EGUID {0D49440A-3587-4A8F-9F73-AADA6E1C378B}
+    EGUID {BA5505B4-35F3-4C75-AB4B-4664A36FAFC9}
     ACT 0 -1
     VIS 0 1 1
     LANEHEIGHT 0 0
@@ -76,7 +130,7 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    EGUID {EDFB77D0-CD8E-4DCD-B011-02CDFBCF1233}
+    EGUID {2E412437-0ED8-474B-B00A-5BDF041BFE67}
     ACT 1 -1
     VIS 0 0 1
     LANEHEIGHT 0 0
@@ -2344,41 +2398,40 @@
     PT 1949.011474664069 123.4567901235 1
     PT 1949.254474664069 127.9680591724 1
   >
-  MARKER 1 4.66667600000052 Задрали 5 16777471 1 R {B7A892EE-4B46-4765-B1F1-7F15A7F9DC83}
-  MARKER 1 188.14350305500071 "" 5 16777471 1 R
+  <MASTERVOLENV2
+    EGUID {8DB59A3E-830C-4211-ADDA-BD2496C7FF2F}
+    ACT 1 -1
+    VIS 1 1 1
+    LANEHEIGHT 0 0
+    ARM 1
+    DEFSHAPE 0 -1 -1
+    VOLTYPE 1
+    PT 0 1 0
+  >
+  MARKER 1 4.66667600000052 Задрали 1 16777471 1 R {B7A892EE-4B46-4765-B1F1-7F15A7F9DC83}
+  MARKER 1 188.14350305500071 "" 1 16777471 1 R
   MARKER 2 188.143503 Тарантелла 1 16842751 1 R {CA538692-BD90-4295-9CDB-4522F5A5E740}
   MARKER 2 328.91937947555988 "" 1 16842751 1 R
   MARKER 3 332.11418297555969 Дерево 1 16842496 1 R {CC05B236-FC7F-4668-BC47-A9CE3120BEAC}
   MARKER 3 431.49878536129569 "" 1 16842496 1 R
-  MARKER 4 432.66545436129581 Засели 5 33554176 1 R {367FA631-6A4C-48B8-844A-A7D4C871565C}
-  MARKER 4 654.27183630078684 "" 5 33554176 1 R
-  MARKER 3 435.23454346096912 "More swing?" 0 0 1 R {B1899103-24DF-4CFE-98BE-DC6643805C27}
-  MARKER 4 435.92530752636742 Rhythm! 0 0 1 R {1D229A0C-3F7F-40E3-BF2E-AE573153D710}
-  MARKER 1 440.11291201465286 "Make it seemless and longer" 0 0 1 R {DDA28C1C-8135-45D2-96CC-CB322F839C50}
-  MARKER 2 441.44520150447903 "check pitch" 0 0 1 R {1F88BF04-37C0-4F1B-B883-D2163D367683}
-  MARKER 8 463.04684847473402 "improve this" 0 0 1 R {F4E67AF9-1F29-44DA-9DD3-A2DB8027362E}
-  MARKER 6 467.86441151873998 "Sounds unnatural, search the secondary" 0 0 1 R {929C7DDB-AF68-4287-ABD7-2D0175DC4478}
-  MARKER 5 476.20456261218237 Rhythm? 0 0 1 R {FD894E31-8579-4759-94F2-6A22A72BF1CC}
-  MARKER 7 497.76794182643584 "High pitch to secondary backs?" 0 0 1 R {BE838182-8BA4-4397-8787-B335535ABBB9}
-  MARKER 9 627.94541908619988 "scream into secondary" 0 0 1 R {29F3A8AA-C64F-4313-BC4F-36EF9CC2C687}
-  MARKER 5 654.27183630078684 Дельфіни 9 33488896 1 R {6C109678-2583-420C-B88E-0FCF52F2CECF}
-  MARKER 5 810.95884055081899 "" 9 33488896 1 R
+  MARKER 4 432.66545436129581 Засели 1 33554176 1 R {367FA631-6A4C-48B8-844A-A7D4C871565C}
+  MARKER 4 654.27183630078684 "" 1 33554176 1 R
+  MARKER 5 654.27183630078684 Дельфіни 13 33488896 1 R {6C109678-2583-420C-B88E-0FCF52F2CECF}
+  MARKER 5 810.95884055081899 "" 13 33488896 1 R
   MARKER 6 812.83431455081904 Дурдом 1 33489151 1 R {8EF615B3-46CD-46B3-899B-C19AA901B2EF}
   MARKER 6 1068.4047045507862 "" 1 33489151 1 R
   MARKER 7 1070.5479645507862 Камень 1 33488896 1 R {549B2717-8219-4EFF-BC10-D35D7768E70C}
   MARKER 7 1243.387202664069 "" 1 33488896 1 R
-  MARKER 1 1243.387202664069 =START 0 0 1 R {924AADA6-E8AF-4A94-A6ED-11793106F07D}
   MARKER 8 1246.387202664069 Соціофобія 5 16777471 1 R {F2B4B690-79F7-478A-9119-80216478169A}
   MARKER 8 1513.7872026640691 "" 5 16777471 1 R
-  MARKER 2 1513.7872026640691 =END 0 0 1 R {4BA390BB-75FF-4F96-8B5E-547D270DDBAA}
-  MARKER 9 1513.7872026640691 Пылесос 5 16842751 1 R {034CF6F3-C704-4B9D-834C-5A4EFDA43D2E}
-  MARKER 9 1672.2436219140702 "" 5 16842751 1 R
+  MARKER 9 1513.7872026640691 Пылесос 1 16842751 1 R {034CF6F3-C704-4B9D-834C-5A4EFDA43D2E}
+  MARKER 9 1672.2436219140702 "" 1 16842751 1 R
   MARKER 10 1672.2436219140702 Абсурд 1 16842496 1 R {19371EDE-3E6B-46EF-ABAF-2EDA84654C93}
   MARKER 10 1963.2032679141228 "" 1 16842496 1 R
   <PROJBAY
   >
-  <TRACK {92727FCC-0C8F-4431-8E24-42465CA45FAB}
-    NAME Keyboards
+  <TRACK {B0B20642-CE40-497F-9A9D-58840BC9FCE8}
+    NAME minus
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -2390,2492 +2443,303 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 1
-    REC 0 5088 1 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 64 0 0 0 -1 0
+    TRACKHEIGHT 0 0 0 0 -1 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {92727FCC-0C8F-4431-8E24-42465CA45FAB}
+    TRACKID {B0B20642-CE40-497F-9A9D-58840BC9FCE8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1966.8140362811791
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E6DFDFC-F7A2-4AF0-855C-FE3D34A8A8AD}
+      IID 624
+      NAME minus.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15E828DE-B3C9-4406-8C13-7E47C79F75F2}
+      <SOURCE MP3
+        FILE "minus.mp3" 1
+      >
+    >
+  >
+  <TRACK {21B6FED4-1FDB-406D-87C3-9D47DF751673}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {21B6FED4-1FDB-406D-87C3-9D47DF751673}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 8 25 1087 645
+      WNDRECT 506 116 643 340
       SHOW 0
       LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VSTi: Xpand!2 (AIR Music Technology)" Xpand!2_x64.dll 0 "" 845443160<97E9E4584231B468945DA6A5C9A4E249> ""
-        WHBkMu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAALQMAAABAAAAAAAQAA==
-        pAwAAAAAAAAAAAAAAAAAAJQAAAAAAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD/0/TQ/lpmZPi7/AT+3HkU/Q+E6PwAAAAAAALQ+AACAPwAAAD8AAIA/AAAAAAAAAAAAAAA/
-        AAAAPwAAAAAAAIA/jC66PQAANj8AAAAArBwaPwAAAD8AAAA/AAAAAAAAAAAAAAAAAACAPgAAAAAAAAA/AAA+PwAAAAAAAAAAXOy/Pt/yLT8AAAA/AACAPwAAAAAAAAAA
-        AAAAPwAAAD8AAAAAAACAP4wuuj0AADY/AAAAAKwcGj8AAAA/fPJQPwAAAAAAAAAAAAAAAAAAgD7ZozA//v//PqxHIT98FK4+KVwPPnLXzz47sRM/AAAAPwAAgD8AAAAA
-        AAAAAAAAAD8AAAA/AAAAAAAAgD+MLro9Lv83PwAAAABc/h8/AAAAPwAALj8AAAAAAAAAAAAAAAAAAIA+AAAAP4brMT8AAAAANFyDPlm4Xj8AAAA/2YkdPwAAAD8AAIA/
-        AAAAAAAAAAAAAAA/AAAAPwAAAAAAAIA/jC66PQAANj8AAAAAAAAAPwAAAD8AAAA/AAAAAAAAAAAAAAAAAACAPgAAAAAAAAA/AAAAPwAAAAAAAAA/AAAAPwAAAAAAAAAA
-        AAAAAPU8Tz+rqio+AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAAAAAAADA7/s+q6oqPgAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAAAAAAAAwO/7PquqKj4AAAA/
-        AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAMDv+z6rqio+9gIAAAwLoigAAAAOAFgAcABhAG4AZAAhADIAAAAAAAAC1FdTTDEoogsMAAAAAAAAAAAAAAAAJgAAAAAA
-        AAAPAAAAEQAAABwAAAAHAAAADAAAAAMAAAAAAAAAJwAAAAAAAAABAAAAAgAAAAMAAAAAAAAA/v////7////+/////v////7////+/////v////7////+/////v///w4A
-        AAD+////JwAAAEAAAABZAAAA/v///wcAAAAIAAAACQAAAAoAAAANAAAAJgAAAD8AAABYAAAADwAAACgAAAAgAAAAIQAAACIAAAAjAAAAJAAAACUAAAA5AAAAOgAAADsA
-        AAA8AAAAPQAAAD4AAABSAAAAUwAAAFQAAABVAAAAVgAAAFcAAAAcAAAANQAAAE4AAABnAAAA/v////7////+/////v////7////+/////v////7////+/////v////7/
-        ///+/////v////7////+/////v////7////+/////v////7////+/////v////7////+////AgAAAAAAAAADAAAAAQAAAP7////+/////v///wQAAAALAAAADAAAAAUA
-        AAD+/////v///ykAAAAqAAAAQgAAAEMAAABbAAAAXAAAABAAAAD+////EQAAAB8AAAA4AAAAUQAAAGoAAAD+/////v////7////+////bAAAAG0AAABvAAAAcAAAAHEA
-        AAD+/////v////7////+/////v////7////+/////v////7////+/////v////7////+/////v////7////+/////v////7////+/////v////7///8AAAAAV2VsY29t
-        ZSB0byBYcGFuZCEyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADerb7v8gYAAAwLoigAAAAOAFgAcABhAG4AZAAhADIAAAAA/////wAABswAAAA+AAAAAQAAAAAAAABUAAAAAAAAAAA/gAAA
-        AAAAVAAAAAoAAAAAAAAADgAAAAAAAAAAP4AAAAAAAA4AAAAMAAAAAAAAACcAAAAAAAAAAD+AAAAAAAAnAAAADQAAAAAAAABAAAAAAAAAAAA/gAAAAAAAQAAAAA4AAAAA
-        AAAAWQAAAAAAAAAAP4AAAAAAAFkAAAAQAAAAAAAAAAcAAAAAAAAAAD+AAAAAAAAHAAAAEQAAAAAAAAAIAAAAAAAAAAA/gAAAAAAACAAAABIAAAAAAAAACQAAAAAAAAAA
-        P4AAAAAAAAkAAAATAAAAAAAAAAoAAAAAAAAAAD+AAAAAAAAKAAAAFAAAAAAAAAANAAAAAAAAAAA/gAAAAAAADQAAABUAAAAAAAAAJgAAAAAAAAAAP4AAAAAAACYAAAAW
-        AAAAAAAAAD8AAAAAAAAAAD+AAAAAAAA/AAAAFwAAAAAAAABYAAAAAAAAAAA/gAAAAAAAWAAAABgAAAAAAAAADwAAAAAAAAAAP4AAAAAAAA8AAAAZAAAAAAAAACgAAAAA
-        AAAAAD+AAAAAAAAoAAAAGgAAAAAAAAAgAAAAAAAAAAA/gAAAAAAAIAAAABsAAAAAAAAAIQAAAAAAAAAAP4AAAAAAACEAAAAcAAAAAAAAACIAAAAAAAAAAD+AAAAAAAAi
-        AAAAHQAAAAAAAAAjAAAAAAAAAAA/gAAAAAAAIwAAAB4AAAAAAAAAJAAAAAAAAAAAP4AAAAAAACQAAAAfAAAAAAAAACUAAAAAAAAAAD+AAAAAAAAlAAAAIAAAAAAAAAA5
-        AAAAAAAAAAA/gAAAAAAAOQAAACEAAAAAAAAAOgAAAAAAAAAAP4AAAAAAADoAAAAiAAAAAAAAADsAAAAAAAAAAD+AAAAAAAA7AAAAIwAAAAAAAAA8AAAAAAAAAAA/gAAA
-        AAAAPAAAACQAAAAAAAAAPQAAAAAAAAAAP4AAAAAAAD0AAAAlAAAAAAAAAD4AAAAAAAAAAD+AAAAAAAA+AAAAJgAAAAAAAABSAAAAAAAAAAA/gAAAAAAAUgAAACcAAAAA
-        AAAAUwAAAAAAAAAAP4AAAAAAAFMAAAAoAAAAAAAAAFQAAAAAAAAAAD+AAAAAAABUAAAAKQAAAAAAAABVAAAAAAAAAAA/gAAAAAAAVQAAACoAAAAAAAAAVgAAAAAAAAAA
-        P4AAAAAAAFYAAAArAAAAAAAAAFcAAAAAAAAAAD+AAAAAAABXAAAALAAAAAAAAAAcAAAAAAAAAAA/gAAAAAAAHAAAAC0AAAAAAAAANQAAAAAAAAAAP4AAAAAAADUAAAAu
-        AAAAAAAAAE4AAAAAAAAAAD+AAAAAAABOAAAALwAAAAAAAABnAAAAAAAAAAA/gAAAAAAAZwAAAEgAAAAAAAAAAgAAAAAAAAAAP4AAAAAAAAIAAABJAAAAAAAAAAAAAAAA
-        AAAAAD+AAAAAAAAAAAAASgAAAAAAAAADAAAAAAAAAAA/gAAAAAAAAwAAAEsAAAAAAAAAAQAAAAAAAAAAP4AAAAAAAAEAAABPAAAAAAAAAAQAAAAAAAAAAD+AAAAAAAAE
-        AAAAUAAAAAAAAAALAAAAAAAAAAA/gAAAAAAACwAAAFEAAAAAAAAADAAAAAAAAAAAP4AAAAAAAAwAAABSAAAAAAAAAAUAAAAAAAAAAD+AAAAAAAAFAAAAVQAAAAAAAAAp
-        AAAAAAAAAAA/gAAAAAAAKQAAAFYAAAAAAAAAKgAAAAAAAAAAP4AAAAAAACoAAABXAAAAAAAAAEIAAAAAAAAAAD+AAAAAAABCAAAAWAAAAAAAAABDAAAAAAAAAAA/gAAA
-        AAAAQwAAAFkAAAAAAAAAWwAAAAAAAAAAP4AAAAAAAFsAAABaAAAAAAAAAFwAAAAAAAAAAD+AAAAAAABcAAAAWwAAAAAAAAAQAAAAAAAAAAA/gAAAAAAAEAAAAF0AAAAA
-        AAAAEQAAAAAAAAAAP4AAAAAAABEAAABeAAAAAAAAAB8AAAAAAAAAAD+AAAAAAAAfAAAAXwAAAAAAAAA4AAAAAAAAAAA/gAAAAAAAOAAAAGAAAAAAAAAAUQAAAAAAAAAA
-        P4AAAAAAAFEAAABhAAAAAAAAAGoAAAAAAAAAAD+AAAAAAABqAAAAZgAAAAAAAABsAAAAAAAAAAA/gAAAAAAAbAAAAGcAAAAAAAAAbQAAAAAAAAAAP4AAAAAAAG0AAABo
-        AAAAAAAAAG8AAAAAAAAAAD+AAAAAAABvAAAAaQAAAAAAAABwAAAAAAAAAAA/gAAAAAAAcAAAAGoAAAAAAAAAcQAAAAAAAAAAP4AAAAAAAHHerb7vTAAAAAAAABgAUwBo
-        AG8AdwBNAGEAaQBuAFAAYQBnAGUAAAABAAAAEABNAGEAaQBuAFAAYQBnAGUAAAAUAAAABAAAAAAAAAAAAAAAAAAAAAAMAAAAQWJzdXJkQWxidW0A
-        AEFic3VyZEFsYnVtABAAAAA=
-      >
-      PRESETNAME AbsurdAlbum
-      FLOATPOS 0 0 0 0
-      FXID {F995704F-9055-4B9E-B6D8-2F286739CEBC}
-      WAK 0 0
-      BYPASS 0 0 0
-      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
-        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAqAAAAAEAAAAAABAA
-        IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAImtc8nNgKRAoLrDpX4d
-        /T8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAA8CAABhAQAA
+      <VST "VST: ReaVerbate (Cockos)" reaverbate.dll 0 "" 1920361016<56535472766238726561766572626174> ""
+        OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
+        776t3g3wrd46ckM+AACAPzBMCj/EQrU+AACAPwAAAACwFhg/9UtfPQ==
         AAAQAAAA
       >
       FLOATPOS 0 0 0 0
-      FXID {39198868-4AA6-4FB2-9D4F-EA3C31B7A192}
+      FXID {8960AC35-9025-43B0-9303-0C4D1ADCF22A}
+      WAK 0 0
+    >
+  >
+  <TRACK {0414307B-FC15-4D68-AE99-AB377B739ED9}
+    NAME Ann
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.39288064923275 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0414307B-FC15-4D68-AE99-AB377B739ED9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 285 0 859 555
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAOgCAAABAAAAAAAQAA==
+        AgAAAAAAAAAeAAAAuAEAAAIAAACtBQAAMgAAADIAAAAyAAAAAQAAACgAAABAxt5DDQPfQwAALEIAACxCQBbfQ9lP30MAAExCAABMQtk/4ENzWeBDAABAQgAAQEINc+BD
+        QKbgQwAAVEIAAFRCc7ngQ9nf4EMAAEBCAABAQoPl4kMkBuNDAAAQQgAAEEI9C+NDdErjQwAAHEIAABxCplTjQ/dk40MAABBCAAAQQiRu40P7ieNDAAAcQgAAHEJSk+ND
+        GqDjQwAAGEIAABhCM6XjQ2qw40MAABBCAAAQQs/E40M42uNDAAAYQgAAGEJ65+NDyvfjQwAAGEIAABhC/AHkQ00S5EMAABBCAAAQQnob5EMBN+RDAAAYQgAAGEKXcuRD
+        NJHkQwAALEIAACxCcqDkQ6Kq5EMAADxCAABAQnur5EPGxuRDAABAQgAAQEItj+VDl6TlQwAAJEIAACRC9rflQ7rf5UMAABxCAAAcQgXv5UO6E+ZDAAAwQgAAMEJPGedD
+        TxnnQwAAHEIAABxCTxnnQ58p50MAABxCAAAcQvxS50M2ZudDAAAcQgAAHELNFehDlyvoQwAAJEIAACRCPavpQznp6UMAACxCAAAsQmL56UN1A+pDAAA8QgAAQEJ1A+pD
+        UhvqQwAAQEIAAEBCWT7qQ0+G6kMAADBCAAAwQmbE6kNr3OpDAAAsQgAALEKY6epDfQXrQwAAJEIAACRCohnrQ0pA60MAABxCAAAcQl9f60ORhOtDAAAwQgAAMEK0C+xD
+        lTXsQwAAHEIAABxCAG/sQ+KY7EMAABxCAAAcQt3j7EONGO1DAAAYQgAAGEJwKe1DkEztQwAAEEIAABBCXmbtQxFu7UMAACBCAAAkQhFu7UORf+1DAAAkQgAAJEICke1D
+        ixPuQwAAEEIAABBCAQAAAAAAgEIAAEBBk5nhQ72CcUIBAAAAAQAAAAAACwABAAAAAAAAAAAAAAAAAAAAcwQAAGwCAAAQAAAA
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {29119D5F-79DF-42B3-9AF8-627EBA07E164}
       WAK 0 0
     >
     <ITEM
-      POSITION 1243.387202664069
+      POSITION 455.49883336129835
       SNAPOFFS 0
-      LENGTH 171.2
+      LENGTH 21.33337600000237
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
-      COLOR 33521664 R
       SEL 0
-      IGUID {B74A2448-AA3B-4F4D-85C2-BFE4C120C7AD}
-      IID 378
-      NAME "Piano - Sociophoby.mid"
+      IGUID {DEE70E91-394D-424B-AA11-B5B4B9ED2F0F}
+      IID 54071
+      NAME "Ann Zaseli refrain.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 0 0
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {51A88CEE-6951-4E6D-8D08-A8E38E198F9F}
-      <SOURCE MIDI
-        HASDATA 1 1024 QN
-        CCINTERP 32
-        POOLEDEVTS {B3984828-58B8-4193-8269-82BEDAFE1B6D}
-        <X 0 0 0 0 3 Piano
-          /wNQaWFubw==
-        >
-        e 212996 90 41 59
-        e 0 90 1d 44
-        e 0 90 29 56
-        E 80 b0 40 7f
-        e 462 90 35 44
-        e 30 80 41 00
-        e 478 90 39 45
-        e 30 80 35 00
-        e 475 90 3c 44
-        e 30 80 39 00
-        e 480 90 41 47
-        e 30 80 3c 00
-        e 480 90 3c 44
-        e 30 80 41 00
-        e 474 80 1d 00
-        e 0 80 29 00
-        e 1 90 41 45
-        e 0 90 39 45
-        e 30 80 3c 00
-        e 475 90 45 44
-        e 0 90 35 44
-        e 30 80 41 00
-        e 0 80 39 00
-        e 481 90 48 59
-        e 0 90 30 49
-        e 26 80 45 00
-        e 0 80 35 00
-        e 516 90 41 44
-        e 0 90 35 44
-        e 30 80 48 00
-        e 0 80 30 00
-        e 478 90 45 45
-        e 0 90 30 45
-        e 30 80 41 00
-        e 0 80 35 00
-        e 475 90 4a 54
-        e 0 90 2d 44
-        e 30 80 45 00
-        e 0 80 30 00
-        e 480 90 45 47
-        e 0 90 29 47
-        e 30 80 4a 00
-        e 0 80 2d 00
-        e 480 90 41 44
-        e 0 90 2d 44
-        e 30 80 45 00
-        e 0 80 29 00
-        e 475 90 4c 55
-        e 0 90 30 51
-        e 30 80 41 00
-        e 0 80 2d 00
-        e 475 90 45 44
-        e 30 80 4c 00
-        E 235 b0 40 00
-        e 241 80 30 00
-        e 5 90 4a 59
-        e 0 90 1a 43
-        e 0 90 26 55
-        e 26 80 45 00
-        E 64 b0 40 7f
-        e 452 90 45 44
-        e 30 80 4a 00
-        e 478 90 41 45
-        e 30 80 45 00
-        e 475 90 3e 44
-        e 30 80 41 00
-        e 480 90 45 57
-        e 30 80 3e 00
-        e 480 90 39 44
-        e 30 80 45 00
-        e 474 80 1a 00
-        e 0 80 26 00
-        e 1 90 3e 45
-        e 0 90 35 45
-        e 30 80 39 00
-        e 475 90 41 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 35 00
-        e 481 90 45 59
-        e 0 90 2d 49
-        e 26 80 41 00
-        e 0 80 32 00
-        e 516 90 3e 44
-        e 0 90 32 44
-        e 30 80 45 00
-        e 0 80 2d 00
-        e 478 90 41 45
-        e 0 90 2d 45
-        e 30 80 3e 00
-        e 0 80 32 00
-        e 475 90 47 54
-        e 0 90 29 44
-        e 30 80 41 00
-        e 0 80 2d 00
-        e 480 90 41 47
-        e 0 90 26 46
-        e 30 80 47 00
-        e 0 80 29 00
-        e 480 90 3e 44
-        e 0 90 29 44
-        e 30 80 41 00
-        e 0 80 26 00
-        e 475 90 48 55
-        e 0 90 2d 51
-        e 30 80 3e 00
-        e 0 80 29 00
-        e 475 90 41 44
-        e 30 80 48 00
-        E 235 b0 40 00
-        e 241 80 2d 00
-        e 5 90 48 59
-        e 0 90 18 42
-        e 0 90 24 54
-        e 26 80 41 00
-        E 113 b0 40 7f
-        e 403 90 43 44
-        e 30 80 48 00
-        e 478 90 40 45
-        e 30 80 43 00
-        e 475 90 3c 44
-        e 30 80 40 00
-        e 480 90 43 57
-        e 30 80 3c 00
-        e 480 90 37 44
-        e 30 80 43 00
-        e 474 80 18 00
-        e 0 80 24 00
-        e 1 90 3c 45
-        e 0 90 34 45
-        e 30 80 37 00
-        e 475 90 40 44
-        e 0 90 30 44
-        e 30 80 3c 00
-        e 0 80 34 00
-        e 481 90 43 59
-        e 0 90 2b 49
-        e 26 80 40 00
-        e 0 80 30 00
-        e 516 90 3c 44
-        e 0 90 30 44
-        e 30 80 43 00
-        e 0 80 2b 00
-        e 478 90 40 45
-        e 0 90 2b 45
-        e 30 80 3c 00
-        e 0 80 30 00
-        e 475 90 45 54
-        e 0 90 28 43
-        e 30 80 40 00
-        e 0 80 2b 00
-        e 480 90 40 47
-        e 0 90 24 45
-        e 30 80 45 00
-        e 0 80 28 00
-        e 480 90 3c 44
-        e 0 90 28 43
-        e 30 80 40 00
-        e 0 80 24 00
-        e 475 90 46 55
-        e 0 90 2b 51
-        e 30 80 3c 00
-        e 0 80 28 00
-        e 475 90 40 44
-        e 30 80 46 00
-        E 235 b0 40 00
-        e 241 80 2b 00
-        e 5 90 45 59
-        e 0 90 1a 43
-        e 0 90 26 55
-        e 26 80 40 00
-        E 93 b0 40 7f
-        e 423 90 41 44
-        e 30 80 45 00
-        e 478 90 3e 45
-        e 30 80 41 00
-        e 475 90 39 44
-        e 30 80 3e 00
-        e 480 90 3e 47
-        e 30 80 39 00
-        e 480 90 39 44
-        e 30 80 3e 00
-        e 474 80 1a 00
-        e 0 80 26 00
-        e 1 90 3e 45
-        e 0 90 35 45
-        e 30 80 39 00
-        e 475 90 41 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 35 00
-        e 481 90 3e 49
-        e 0 90 2d 49
-        e 26 80 41 00
-        e 0 80 32 00
-        e 516 90 39 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 478 90 3e 45
-        e 0 90 2d 45
-        e 30 80 39 00
-        e 0 80 32 00
-        e 475 90 41 44
-        e 0 90 29 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 480 90 3e 47
-        e 0 90 2d 47
-        e 30 80 41 00
-        e 0 80 29 00
-        e 480 90 39 44
-        e 0 90 29 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 475 90 3e 45
-        e 0 90 26 50
-        e 30 80 39 00
-        e 0 80 29 00
-        e 475 90 40 44
-        e 30 80 3e 00
-        E 235 b0 40 00
-        e 241 80 26 00
-        e 5 90 41 59
-        e 0 90 1d 44
-        e 0 90 29 56
-        e 26 80 40 00
-        E 54 b0 40 7f
-        e 462 90 35 44
-        e 30 80 41 00
-        e 478 90 39 45
-        e 30 80 35 00
-        e 475 90 3c 44
-        e 30 80 39 00
-        e 480 90 41 47
-        e 30 80 3c 00
-        e 480 90 3c 44
-        e 30 80 41 00
-        e 474 80 1d 00
-        e 0 80 29 00
-        e 1 90 41 45
-        e 0 90 39 45
-        e 30 80 3c 00
-        e 475 90 45 44
-        e 0 90 35 44
-        e 30 80 41 00
-        e 0 80 39 00
-        e 481 90 48 59
-        e 0 90 30 49
-        e 26 80 45 00
-        e 0 80 35 00
-        e 516 90 41 44
-        e 0 90 35 44
-        e 30 80 48 00
-        e 0 80 30 00
-        e 478 90 45 45
-        e 0 90 30 45
-        e 30 80 41 00
-        e 0 80 35 00
-        e 475 90 4a 54
-        e 0 90 2d 44
-        e 30 80 45 00
-        e 0 80 30 00
-        e 480 90 45 47
-        e 0 90 29 47
-        e 30 80 4a 00
-        e 0 80 2d 00
-        e 480 90 41 44
-        e 0 90 2d 44
-        e 30 80 45 00
-        e 0 80 29 00
-        e 475 90 4c 55
-        e 0 90 30 51
-        e 30 80 41 00
-        e 0 80 2d 00
-        e 475 90 45 44
-        e 30 80 4c 00
-        E 235 b0 40 00
-        e 241 80 30 00
-        e 5 90 4a 59
-        e 0 90 1a 43
-        e 0 90 26 55
-        e 26 80 45 00
-        E 64 b0 40 7f
-        e 452 90 45 44
-        e 30 80 4a 00
-        e 478 90 41 45
-        e 30 80 45 00
-        e 475 90 3e 44
-        e 30 80 41 00
-        e 480 90 45 57
-        e 30 80 3e 00
-        e 480 90 39 44
-        e 30 80 45 00
-        e 474 80 1a 00
-        e 0 80 26 00
-        e 1 90 3e 45
-        e 0 90 35 45
-        e 30 80 39 00
-        e 475 90 41 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 35 00
-        e 481 90 45 59
-        e 0 90 2d 49
-        e 26 80 41 00
-        e 0 80 32 00
-        e 516 90 3e 44
-        e 0 90 32 44
-        e 30 80 45 00
-        e 0 80 2d 00
-        e 478 90 41 45
-        e 0 90 2d 45
-        e 30 80 3e 00
-        e 0 80 32 00
-        e 475 90 47 54
-        e 0 90 29 44
-        e 30 80 41 00
-        e 0 80 2d 00
-        e 480 90 41 47
-        e 0 90 26 46
-        e 30 80 47 00
-        e 0 80 29 00
-        e 480 90 3e 44
-        e 0 90 29 44
-        e 30 80 41 00
-        e 0 80 26 00
-        e 475 90 48 55
-        e 0 90 2d 51
-        e 30 80 3e 00
-        e 0 80 29 00
-        e 475 90 41 44
-        e 30 80 48 00
-        E 235 b0 40 00
-        e 241 80 2d 00
-        e 5 90 48 59
-        e 0 90 18 42
-        e 0 90 24 54
-        e 26 80 41 00
-        E 113 b0 40 7f
-        e 403 90 43 44
-        e 30 80 48 00
-        e 478 90 40 45
-        e 30 80 43 00
-        e 475 90 3c 44
-        e 30 80 40 00
-        e 480 90 43 57
-        e 30 80 3c 00
-        e 480 90 37 44
-        e 30 80 43 00
-        e 474 80 18 00
-        e 0 80 24 00
-        e 1 90 3c 45
-        e 0 90 34 45
-        e 30 80 37 00
-        e 475 90 40 44
-        e 0 90 30 44
-        e 30 80 3c 00
-        e 0 80 34 00
-        e 481 90 43 59
-        e 0 90 2b 49
-        e 26 80 40 00
-        e 0 80 30 00
-        e 516 90 3c 44
-        e 0 90 30 44
-        e 30 80 43 00
-        e 0 80 2b 00
-        e 478 90 40 45
-        e 0 90 2b 45
-        e 30 80 3c 00
-        e 0 80 30 00
-        e 475 90 45 54
-        e 0 90 28 43
-        e 30 80 40 00
-        e 0 80 2b 00
-        e 480 90 40 47
-        e 0 90 24 45
-        e 30 80 45 00
-        e 0 80 28 00
-        e 480 90 3c 44
-        e 0 90 28 43
-        e 30 80 40 00
-        e 0 80 24 00
-        e 475 90 46 55
-        e 0 90 2b 51
-        e 30 80 3c 00
-        e 0 80 28 00
-        e 475 90 40 44
-        e 30 80 46 00
-        E 235 b0 40 00
-        e 241 80 2b 00
-        e 5 90 45 59
-        e 0 90 1a 43
-        e 0 90 26 55
-        e 26 80 40 00
-        e 516 90 41 44
-        e 30 80 45 00
-        e 478 90 3e 45
-        e 30 80 41 00
-        e 475 90 39 44
-        e 30 80 3e 00
-        e 480 90 3e 47
-        e 30 80 39 00
-        e 480 90 39 44
-        e 30 80 3e 00
-        e 474 80 1a 00
-        e 0 80 26 00
-        e 1 90 3e 45
-        e 0 90 35 45
-        e 30 80 39 00
-        e 475 90 41 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 35 00
-        e 481 90 3e 49
-        e 0 90 2d 49
-        e 26 80 41 00
-        e 0 80 32 00
-        e 516 90 39 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 478 90 3e 45
-        e 0 90 2d 45
-        e 30 80 39 00
-        e 0 80 32 00
-        e 475 90 41 44
-        e 0 90 29 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 480 90 3e 47
-        e 0 90 2d 47
-        e 30 80 41 00
-        e 0 80 29 00
-        e 480 90 39 44
-        e 0 90 29 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 475 90 3e 45
-        e 0 90 26 50
-        e 30 80 39 00
-        e 0 80 29 00
-        e 475 90 40 44
-        e 30 80 3e 00
-        e 476 80 26 00
-        e 5 90 41 59
-        e 0 90 1d 44
-        e 0 90 29 56
-        e 26 80 40 00
-        E 54 b0 40 7f
-        e 462 90 35 44
-        e 30 80 41 00
-        e 478 90 39 45
-        e 30 80 35 00
-        e 475 90 3c 44
-        e 30 80 39 00
-        e 480 90 41 47
-        e 30 80 3c 00
-        e 480 90 3c 44
-        e 30 80 41 00
-        e 474 80 1d 00
-        e 0 80 29 00
-        e 1 90 41 45
-        e 0 90 39 45
-        e 30 80 3c 00
-        e 475 90 45 44
-        e 0 90 35 44
-        e 30 80 41 00
-        e 0 80 39 00
-        e 481 90 48 59
-        e 0 90 30 49
-        e 26 80 45 00
-        e 0 80 35 00
-        e 516 90 41 44
-        e 0 90 35 44
-        e 30 80 48 00
-        e 0 80 30 00
-        e 478 90 45 45
-        e 0 90 30 45
-        e 30 80 41 00
-        e 0 80 35 00
-        e 475 90 4a 54
-        e 0 90 2d 44
-        e 30 80 45 00
-        e 0 80 30 00
-        e 480 90 45 47
-        e 0 90 29 47
-        e 30 80 4a 00
-        e 0 80 2d 00
-        e 480 90 41 44
-        e 0 90 2d 44
-        e 30 80 45 00
-        e 0 80 29 00
-        e 475 90 4c 55
-        e 0 90 30 51
-        e 30 80 41 00
-        e 0 80 2d 00
-        e 475 90 45 44
-        e 30 80 4c 00
-        E 235 b0 40 00
-        e 241 80 30 00
-        e 5 90 4a 59
-        e 0 90 1a 43
-        e 0 90 26 55
-        e 26 80 45 00
-        E 64 b0 40 7f
-        e 452 90 45 44
-        e 30 80 4a 00
-        e 478 90 41 45
-        e 30 80 45 00
-        e 475 90 3e 44
-        e 30 80 41 00
-        e 480 90 45 57
-        e 30 80 3e 00
-        e 480 90 39 44
-        e 30 80 45 00
-        e 474 80 1a 00
-        e 0 80 26 00
-        e 1 90 3e 45
-        e 0 90 35 45
-        e 30 80 39 00
-        e 475 90 41 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 35 00
-        e 481 90 45 59
-        e 0 90 2d 49
-        e 26 80 41 00
-        e 0 80 32 00
-        e 516 90 3e 44
-        e 0 90 32 44
-        e 30 80 45 00
-        e 0 80 2d 00
-        e 478 90 41 45
-        e 0 90 2d 45
-        e 30 80 3e 00
-        e 0 80 32 00
-        e 475 90 47 54
-        e 0 90 29 44
-        e 30 80 41 00
-        e 0 80 2d 00
-        e 480 90 41 47
-        e 0 90 26 46
-        e 30 80 47 00
-        e 0 80 29 00
-        e 480 90 3e 44
-        e 0 90 29 44
-        e 30 80 41 00
-        e 0 80 26 00
-        e 475 90 48 55
-        e 0 90 2d 51
-        e 30 80 3e 00
-        e 0 80 29 00
-        e 475 90 41 44
-        e 30 80 48 00
-        E 235 b0 40 00
-        e 241 80 2d 00
-        e 5 90 48 59
-        e 0 90 18 42
-        e 0 90 24 54
-        e 26 80 41 00
-        E 113 b0 40 7f
-        e 403 90 43 44
-        e 30 80 48 00
-        e 478 90 40 45
-        e 30 80 43 00
-        e 475 90 3c 44
-        e 30 80 40 00
-        e 480 90 43 57
-        e 30 80 3c 00
-        e 480 90 37 44
-        e 30 80 43 00
-        e 474 80 18 00
-        e 0 80 24 00
-        e 1 90 3c 45
-        e 0 90 34 45
-        e 30 80 37 00
-        e 475 90 40 44
-        e 0 90 30 44
-        e 30 80 3c 00
-        e 0 80 34 00
-        e 481 90 43 59
-        e 0 90 2b 49
-        e 26 80 40 00
-        e 0 80 30 00
-        e 516 90 3c 44
-        e 0 90 30 44
-        e 30 80 43 00
-        e 0 80 2b 00
-        e 478 90 40 45
-        e 0 90 2b 45
-        e 30 80 3c 00
-        e 0 80 30 00
-        e 475 90 45 54
-        e 0 90 28 43
-        e 30 80 40 00
-        e 0 80 2b 00
-        e 480 90 40 47
-        e 0 90 24 45
-        e 30 80 45 00
-        e 0 80 28 00
-        e 480 90 3c 44
-        e 0 90 28 43
-        e 30 80 40 00
-        e 0 80 24 00
-        e 475 90 46 55
-        e 0 90 2b 51
-        e 30 80 3c 00
-        e 0 80 28 00
-        e 475 90 40 44
-        e 30 80 46 00
-        E 235 b0 40 00
-        e 241 80 2b 00
-        e 5 90 45 59
-        e 0 90 1a 43
-        e 0 90 26 55
-        e 26 80 40 00
-        e 516 90 41 44
-        e 30 80 45 00
-        e 478 90 3e 45
-        e 30 80 41 00
-        e 475 90 39 44
-        e 30 80 3e 00
-        e 480 90 3e 47
-        e 30 80 39 00
-        e 480 90 39 44
-        e 30 80 3e 00
-        e 474 80 1a 00
-        e 0 80 26 00
-        e 1 90 3e 45
-        e 0 90 35 45
-        e 30 80 39 00
-        e 475 90 41 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 35 00
-        e 481 90 3e 49
-        e 0 90 2d 49
-        e 26 80 41 00
-        e 0 80 32 00
-        e 516 90 39 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 478 90 3e 45
-        e 0 90 2d 45
-        e 30 80 39 00
-        e 0 80 32 00
-        e 475 90 41 44
-        e 0 90 29 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 480 90 3e 47
-        e 0 90 2d 47
-        e 30 80 41 00
-        e 0 80 29 00
-        e 480 90 39 44
-        e 0 90 29 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 475 90 3e 45
-        e 0 90 26 50
-        e 30 80 39 00
-        e 0 80 29 00
-        e 475 90 40 44
-        e 30 80 3e 00
-        e 476 80 26 00
-        e 5 90 41 59
-        e 0 90 1d 44
-        e 0 90 29 56
-        e 26 80 40 00
-        E 54 b0 40 7f
-        e 462 90 35 44
-        e 30 80 41 00
-        e 478 90 39 45
-        e 30 80 35 00
-        e 475 90 3c 44
-        e 30 80 39 00
-        e 480 90 41 47
-        e 30 80 3c 00
-        e 480 90 3c 44
-        e 30 80 41 00
-        e 474 80 1d 00
-        e 0 80 29 00
-        e 1 90 41 45
-        e 0 90 39 45
-        e 30 80 3c 00
-        e 475 90 45 44
-        e 0 90 35 44
-        e 30 80 41 00
-        e 0 80 39 00
-        e 481 90 48 59
-        e 0 90 30 49
-        e 26 80 45 00
-        e 0 80 35 00
-        e 516 90 41 44
-        e 0 90 35 44
-        e 30 80 48 00
-        e 0 80 30 00
-        e 478 90 45 45
-        e 0 90 30 45
-        e 30 80 41 00
-        e 0 80 35 00
-        e 475 90 4a 54
-        e 0 90 2d 44
-        e 30 80 45 00
-        e 0 80 30 00
-        e 480 90 45 47
-        e 0 90 29 47
-        e 30 80 4a 00
-        e 0 80 2d 00
-        e 480 90 41 44
-        e 0 90 2d 44
-        e 30 80 45 00
-        e 0 80 29 00
-        e 475 90 4c 55
-        e 0 90 30 51
-        e 30 80 41 00
-        e 0 80 2d 00
-        e 475 90 45 44
-        e 30 80 4c 00
-        E 235 b0 40 00
-        e 241 80 30 00
-        e 5 90 4a 59
-        e 0 90 1a 43
-        e 0 90 26 55
-        e 26 80 45 00
-        E 64 b0 40 7f
-        e 452 90 45 44
-        e 30 80 4a 00
-        e 478 90 41 45
-        e 30 80 45 00
-        e 475 90 3e 44
-        e 30 80 41 00
-        e 480 90 45 57
-        e 30 80 3e 00
-        e 480 90 39 44
-        e 30 80 45 00
-        e 474 80 1a 00
-        e 0 80 26 00
-        e 1 90 3e 45
-        e 0 90 35 45
-        e 30 80 39 00
-        e 475 90 41 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 35 00
-        e 481 90 45 59
-        e 0 90 2d 49
-        e 26 80 41 00
-        e 0 80 32 00
-        e 516 90 3e 44
-        e 0 90 32 44
-        e 30 80 45 00
-        e 0 80 2d 00
-        e 478 90 41 45
-        e 0 90 2d 45
-        e 30 80 3e 00
-        e 0 80 32 00
-        e 475 90 47 54
-        e 0 90 29 44
-        e 30 80 41 00
-        e 0 80 2d 00
-        e 480 90 41 47
-        e 0 90 26 46
-        e 30 80 47 00
-        e 0 80 29 00
-        e 480 90 3e 44
-        e 0 90 29 44
-        e 30 80 41 00
-        e 0 80 26 00
-        e 475 90 48 55
-        e 0 90 2d 51
-        e 30 80 3e 00
-        e 0 80 29 00
-        e 475 90 41 44
-        e 30 80 48 00
-        E 235 b0 40 00
-        e 241 80 2d 00
-        e 5 90 48 59
-        e 0 90 18 42
-        e 0 90 24 54
-        e 26 80 41 00
-        E 113 b0 40 7f
-        e 403 90 43 44
-        e 30 80 48 00
-        e 478 90 40 45
-        e 30 80 43 00
-        e 475 90 3c 44
-        e 30 80 40 00
-        e 480 90 43 57
-        e 30 80 3c 00
-        e 480 90 37 44
-        e 30 80 43 00
-        e 474 80 18 00
-        e 0 80 24 00
-        e 1 90 3c 45
-        e 0 90 34 45
-        e 30 80 37 00
-        e 475 90 40 44
-        e 0 90 30 44
-        e 30 80 3c 00
-        e 0 80 34 00
-        e 481 90 43 59
-        e 0 90 2b 49
-        e 26 80 40 00
-        e 0 80 30 00
-        e 516 90 3c 44
-        e 0 90 30 44
-        e 30 80 43 00
-        e 0 80 2b 00
-        e 478 90 40 45
-        e 0 90 2b 45
-        e 30 80 3c 00
-        e 0 80 30 00
-        e 475 90 45 54
-        e 0 90 28 43
-        e 30 80 40 00
-        e 0 80 2b 00
-        e 480 90 40 47
-        e 0 90 24 45
-        e 30 80 45 00
-        e 0 80 28 00
-        e 480 90 3c 44
-        e 0 90 28 43
-        e 30 80 40 00
-        e 0 80 24 00
-        e 475 90 46 55
-        e 0 90 2b 51
-        e 30 80 3c 00
-        e 0 80 28 00
-        e 475 90 40 44
-        e 30 80 46 00
-        E 235 b0 40 00
-        e 241 80 2b 00
-        e 5 90 45 59
-        e 0 90 1a 43
-        e 0 90 26 55
-        e 26 80 40 00
-        e 516 90 41 44
-        e 30 80 45 00
-        e 478 90 3e 45
-        e 30 80 41 00
-        e 475 90 39 44
-        e 30 80 3e 00
-        e 480 90 3e 47
-        e 30 80 39 00
-        e 480 90 39 44
-        e 30 80 3e 00
-        e 474 80 1a 00
-        e 0 80 26 00
-        e 1 90 3e 45
-        e 0 90 35 45
-        e 30 80 39 00
-        e 475 90 41 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 35 00
-        e 481 90 3e 49
-        e 0 90 2d 49
-        e 26 80 41 00
-        e 0 80 32 00
-        e 516 90 39 44
-        e 0 90 32 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 478 90 3e 45
-        e 0 90 2d 45
-        e 30 80 39 00
-        e 0 80 32 00
-        e 475 90 41 44
-        e 0 90 29 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 480 90 3e 47
-        e 0 90 2d 47
-        e 30 80 41 00
-        e 0 80 29 00
-        e 480 90 39 44
-        e 0 90 29 44
-        e 30 80 3e 00
-        e 0 80 2d 00
-        e 475 90 3e 45
-        e 0 90 26 50
-        e 30 80 39 00
-        e 0 80 29 00
-        e 475 90 40 44
-        e 30 80 3e 00
-        E 443 b0 40 7f
-        e 33 80 26 00
-        e 5 90 41 59
-        e 0 90 1d 44
-        e 0 90 29 56
-        e 26 80 40 00
-        e 516 90 35 44
-        e 30 80 41 00
-        e 478 90 38 45
-        e 30 80 35 00
-        e 475 90 3c 44
-        e 30 80 38 00
-        e 480 90 41 47
-        e 30 80 3c 00
-        e 480 90 3c 44
-        e 30 80 41 00
-        e 474 80 1d 00
-        e 0 80 29 00
-        e 1 90 41 45
-        e 0 90 38 45
-        e 30 80 3c 00
-        e 475 90 44 44
-        e 0 90 35 44
-        e 30 80 41 00
-        e 0 80 38 00
-        e 481 90 48 59
-        e 0 90 30 49
-        e 26 80 44 00
-        e 0 80 35 00
-        e 516 90 3c 44
-        e 0 90 35 44
-        e 30 80 48 00
-        e 0 80 30 00
-        e 478 90 41 45
-        e 0 90 30 45
-        e 30 80 3c 00
-        e 0 80 35 00
-        e 475 90 44 4c
-        e 0 90 48 5a
-        e 0 90 2c 44
-        e 30 80 41 00
-        e 0 80 30 00
-        e 479 80 48 00
-        e 1 90 41 47
-        e 0 90 29 47
-        e 30 80 44 00
-        e 0 80 2c 00
-        e 480 90 3c 44
-        e 0 90 2c 44
-        e 30 80 41 00
-        e 0 80 29 00
-        e 475 90 44 4d
-        e 0 90 48 5b
-        e 0 90 30 51
-        e 30 80 3c 00
-        e 0 80 2c 00
-        e 474 80 48 00
-        e 1 90 3c 44
-        e 30 80 44 00
-        E 167 b0 40 00
-        E 276 b0 40 7f
-        e 33 80 30 00
-        e 5 90 48 59
-        e 0 90 24 46
-        e 0 90 30 56
-        e 26 80 3c 00
-        e 516 90 43 44
-        e 30 80 48 00
-        e 478 90 3f 45
-        e 30 80 43 00
-        e 475 90 3c 44
-        e 30 80 3f 00
-        e 480 90 43 57
-        e 30 80 3c 00
-        e 480 90 37 44
-        e 30 80 43 00
-        e 474 80 24 00
-        e 0 80 30 00
-        e 1 90 3c 45
-        e 0 90 33 45
-        e 30 80 37 00
-        e 475 90 3f 44
-        e 0 90 30 44
-        e 30 80 3c 00
-        e 0 80 33 00
-        e 481 90 43 59
-        e 0 90 2b 49
-        e 26 80 3f 00
-        e 0 80 30 00
-        e 516 90 3c 44
-        e 0 90 30 44
-        e 30 80 43 00
-        e 0 80 2b 00
-        e 478 90 3f 45
-        e 0 90 2b 45
-        e 30 80 3c 00
-        e 0 80 30 00
-        e 475 90 43 4c
-        e 0 90 48 5a
-        e 0 90 27 43
-        e 30 80 3f 00
-        e 0 80 2b 00
-        e 479 80 48 00
-        e 1 90 3f 47
-        e 0 90 24 45
-        e 30 80 43 00
-        e 0 80 27 00
-        e 480 90 3c 44
-        e 0 90 27 43
-        e 30 80 3f 00
-        e 0 80 24 00
-        e 475 90 43 55
-        e 0 90 2b 51
-        e 30 80 3c 00
-        e 0 80 27 00
-        e 475 90 3c 44
-        e 30 80 43 00
-        E 81 b0 40 00
-        E 362 b0 40 7f
-        e 33 80 2b 00
-        e 5 90 46 59
-        e 0 90 22 46
-        e 0 90 2e 56
-        e 26 80 3c 00
-        e 516 90 41 44
-        e 30 80 46 00
-        e 478 90 3e 45
-        e 30 80 41 00
-        e 475 90 3a 44
-        e 30 80 3e 00
-        e 480 90 41 57
-        e 30 80 3a 00
-        e 480 90 35 44
-        e 30 80 41 00
-        e 474 80 22 00
-        e 0 80 2e 00
-        e 1 90 3a 45
-        e 0 90 32 51
-        e 30 80 35 00
-        e 444 80 32 00
-        e 31 90 3e 44
-        e 0 90 2e 50
-        e 30 80 3a 00
-        E 100 b0 40 00
-        E 343 b0 40 7f
-        e 3 80 2e 00
-        e 35 90 41 59
-        e 0 90 20 4a
-        e 0 90 2c 5b
-        e 26 80 3e 00
-        e 516 90 3c 44
-        e 30 80 41 00
-        e 477 80 20 00
-        e 0 80 2c 00
-        e 1 90 41 45
-        e 0 90 35 51
-        e 30 80 3c 00
-        e 444 80 35 00
-        e 31 90 43 54
-        e 0 90 30 50
-        e 30 80 41 00
-        e 449 80 30 00
-        e 31 90 41 47
-        e 0 90 2c 53
-        e 30 80 43 00
-        e 449 80 2c 00
-        e 31 90 3c 44
-        e 0 90 29 50
-        e 30 80 41 00
-        e 444 80 29 00
-        e 31 90 44 55
-        e 0 90 30 51
-        e 30 80 3c 00
-        e 475 90 3c 44
-        e 30 80 44 00
-        E 235 b0 40 00
-        E 208 b0 40 7f
-        e 33 80 30 00
-        e 5 90 43 59
-        e 0 90 18 42
-        e 0 90 24 54
-        e 26 80 3c 00
-        e 516 90 3f 44
-        e 30 80 43 00
-        e 478 90 3c 45
-        e 30 80 3f 00
-        e 475 90 37 44
-        e 30 80 3c 00
-        e 480 90 3c 47
-        e 30 80 37 00
-        e 480 90 37 44
-        e 30 80 3c 00
-        e 474 80 18 00
-        e 0 80 24 00
-        e 1 90 3c 45
-        e 0 90 33 45
-        e 30 80 37 00
-        e 475 90 3f 44
-        e 0 90 30 44
-        e 30 80 3c 00
-        e 0 80 33 00
-        e 481 90 3c 49
-        e 0 90 2b 49
-        e 26 80 3f 00
-        e 0 80 30 00
-        e 516 90 37 44
-        e 0 90 30 44
-        e 30 80 3c 00
-        e 0 80 2b 00
-        e 478 90 3c 45
-        e 0 90 2b 45
-        e 30 80 37 00
-        e 0 80 30 00
-        e 475 90 3f 44
-        e 0 90 27 43
-        e 30 80 3c 00
-        e 0 80 2b 00
-        e 480 90 3c 47
-        e 0 90 2b 47
-        e 30 80 3f 00
-        e 0 80 27 00
-        e 480 90 37 44
-        e 0 90 27 43
-        e 30 80 3c 00
-        e 0 80 2b 00
-        e 475 90 3c 45
-        e 0 90 24 4f
-        e 30 80 37 00
-        e 0 80 27 00
-        e 475 90 3f 44
-        e 30 80 3c 00
-        E 225 b0 40 00
-        E 218 b0 40 7f
-        e 33 80 24 00
-        e 5 90 41 59
-        e 0 90 22 46
-        e 0 90 2e 56
-        e 26 80 3f 00
-        e 516 90 35 44
-        e 30 80 41 00
-        e 478 90 38 45
-        e 30 80 35 00
-        e 475 90 3c 44
-        e 30 80 38 00
-        e 480 90 41 47
-        e 30 80 3c 00
-        e 480 90 3c 44
-        e 30 80 41 00
-        e 474 80 22 00
-        e 0 80 2e 00
-        e 1 90 41 45
-        e 0 90 38 45
-        e 30 80 3c 00
-        e 475 90 44 44
-        e 0 90 35 44
-        e 30 80 41 00
-        e 0 80 38 00
-        e 481 90 48 59
-        e 0 90 31 49
-        e 26 80 44 00
-        e 0 80 35 00
-        e 516 90 3c 44
-        e 0 90 2e 44
-        e 30 80 48 00
-        e 0 80 31 00
-        e 478 90 41 45
-        e 0 90 35 45
-        e 30 80 3c 00
-        e 0 80 2e 00
-        e 475 90 44 4c
-        e 0 90 48 5a
-        e 0 90 31 44
-        e 30 80 41 00
-        e 0 80 35 00
-        e 479 80 48 00
-        e 1 90 41 47
-        e 0 90 2e 47
-        e 30 80 44 00
-        e 0 80 31 00
-        e 480 90 3c 44
-        e 0 90 29 44
-        e 30 80 41 00
-        e 0 80 2e 00
-        e 475 90 44 4d
-        e 0 90 48 5b
-        e 0 90 2e 45
-        e 30 80 3c 00
-        e 0 80 29 00
-        e 474 80 48 00
-        e 1 90 3c 44
-        e 0 90 31 44
-        e 30 80 44 00
-        e 0 80 2e 00
-        E 235 b0 40 00
-        E 208 b0 40 7f
-        e 38 90 48 59
-        e 0 90 21 45
-        e 0 90 2d 56
-        e 26 80 3c 00
-        e 0 80 31 00
-        e 516 90 45 44
-        e 30 80 48 00
-        e 478 90 40 45
-        e 30 80 45 00
-        e 475 90 3c 44
-        e 30 80 40 00
-        e 480 90 45 57
-        e 30 80 3c 00
-        e 480 90 39 44
-        e 30 80 45 00
-        e 474 80 21 00
-        e 0 80 2d 00
-        e 1 90 3c 45
-        e 0 90 34 45
-        e 30 80 39 00
-        e 475 90 40 44
-        e 0 90 30 44
-        e 30 80 3c 00
-        e 0 80 34 00
-        e 481 90 45 59
-        e 0 90 2d 49
-        e 26 80 40 00
-        e 0 80 30 00
-        e 515 80 2d 00
-        e 1 90 3c 44
-        e 0 90 2d 44
-        e 30 80 45 00
-        e 478 90 40 45
-        e 0 90 28 44
-        e 30 80 3c 00
-        e 0 80 2d 00
-        e 475 90 45 4c
-        e 0 90 48 5a
-        e 0 90 24 42
-        e 30 80 40 00
-        e 0 80 28 00
-        e 479 80 48 00
-        e 1 90 40 47
-        e 0 90 21 44
-        e 30 80 45 00
-        e 0 80 24 00
-        e 480 90 3c 44
-        e 0 90 24 42
-        e 30 80 40 00
-        e 0 80 21 00
-        e 475 90 45 55
-        e 0 90 28 50
-        e 30 80 3c 00
-        e 0 80 24 00
-        e 475 90 3c 44
-        e 30 80 45 00
-        E 72 b0 40 00
-        e 404 80 28 00
-        E 5 b0 40 7f
-        e 0 90 47 59
-        e 0 90 1c 44
-        e 0 90 28 55
-        e 26 80 3c 00
-        e 516 90 43 44
-        e 30 80 47 00
-        e 478 90 40 45
-        e 30 80 43 00
-        e 475 90 3b 44
-        e 30 80 40 00
-        e 480 90 43 57
-        e 30 80 3b 00
-        e 480 90 37 44
-        e 30 80 43 00
-        e 474 80 1c 00
-        e 0 80 28 00
-        e 1 90 3b 45
-        e 0 90 34 45
-        e 30 80 37 00
-        e 475 90 40 44
-        e 0 90 2f 44
-        e 30 80 3b 00
-        e 0 80 34 00
-        e 481 90 43 59
-        e 0 90 28 48
-        e 26 80 40 00
-        e 0 80 2f 00
-        e 516 90 3b 44
-        e 0 90 2f 44
-        e 30 80 43 00
-        e 0 80 28 00
-        e 478 90 40 45
-        e 0 90 2b 45
-        e 30 80 3b 00
-        e 0 80 2f 00
-        e 475 90 45 54
-        e 0 90 28 43
-        e 30 80 40 00
-        e 0 80 2b 00
-        e 480 90 40 47
-        e 0 90 23 45
-        e 30 80 45 00
-        e 0 80 28 00
-        e 480 90 3b 44
-        e 0 90 28 43
-        e 30 80 40 00
-        e 0 80 23 00
-        e 475 90 47 55
-        e 0 90 2b 51
-        e 30 80 3b 00
-        e 0 80 28 00
-        e 475 90 40 44
-        e 30 80 47 00
-        E 167 b0 40 00
-        E 276 b0 40 7f
-        e 33 80 2b 00
-        e 5 90 45 59
-        e 0 90 1a 43
-        e 0 90 26 55
-        e 26 80 40 00
-        e 516 90 41 44
-        e 30 80 45 00
-        e 478 90 3e 45
-        e 30 80 41 00
-        e 475 90 39 44
-        e 30 80 3e 00
-        e 480 90 3e 47
-        e 30 80 39 00
-        e 480 90 39 44
-        e 30 80 3e 00
-        e 475 90 3e 45
-        e 30 80 39 00
-        e 475 90 41 44
-        e 30 80 3e 00
-        E 235 b0 40 00
-        e 241 80 1a 00
-        e 0 80 26 00
-        e 5 90 43 59
-        e 0 90 18 42
-        e 0 90 24 54
-        e 26 80 41 00
-        E 142 b0 40 7f
-        e 374 90 3c 44
-        e 30 80 43 00
-        e 478 90 40 45
-        e 30 80 3c 00
-        e 475 90 45 54
-        e 30 80 40 00
-        e 480 90 40 47
-        e 30 80 45 00
-        e 480 90 3c 44
-        e 30 80 40 00
-        e 475 90 48 55
-        e 30 80 3c 00
-        e 475 90 40 44
-        e 30 80 48 00
-        E 235 b0 40 00
-        e 241 80 18 00
-        e 0 80 24 00
-        e 5 90 3c 5d
-        e 0 90 45 6b
-        e 0 90 21 5a
-        e 0 90 2d 6b
-        e 2064 80 40 00
-        e 0 80 3c 00
-        e 0 80 45 00
-        e 0 80 21 00
-        e 0 80 2d 00
-        E 197 b0 07 6e
-        E 79593 b0 07 66
-        E 66 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 4091 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1017 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1017 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 4091 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1017 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1017 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 4091 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1017 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1017 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 4091 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1017 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 951 b0 07 6e
-        E 66 90 30 38
-        E 0 90 3c 46
-        E 0 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 4091 80 30 00
-        E 0 80 3c 00
-        E 0 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 37 3d
-        E 0 90 43 4b
-        E 0 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 37 00
-        E 0 80 43 00
-        E 0 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 39 38
-        E 0 90 45 46
-        E 0 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 39 00
-        E 0 80 45 00
-        E 0 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 3b 39
-        E 0 90 47 47
-        E 0 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 3b 00
-        E 0 80 47 00
-        E 0 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 39 3d
-        E 0 90 45 4b
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 39 00
-        E 0 80 45 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 34 38
-        E 0 90 40 46
-        E 0 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 34 00
-        E 0 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 206 b0 07 6e
-        E 745 b0 07 6e
-        E 66 90 34 3d
-        E 0 90 40 4b
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 34 00
-        E 0 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 36 38
-        E 0 90 42 46
-        E 0 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 36 00
-        E 0 80 42 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1 90 37 39
-        E 0 90 43 47
-        E 1011 80 37 00
-        E 0 80 43 00
-        E 5 90 37 3d
-        E 0 90 43 4b
-        E 0 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 1554 80 37 00
-        E 0 80 43 00
-        E 1 90 32 38
-        E 0 90 3e 46
-        E 1524 80 32 00
-        E 0 80 3e 00
-        E 1012 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 32 3d
-        E 0 90 3e 4b
-        E 0 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 32 00
-        E 0 80 3e 00
-        E 0 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 34 38
-        E 0 90 40 46
-        E 0 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 34 00
-        E 0 80 40 00
-        E 0 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 35 39
-        E 0 90 41 47
-        E 0 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 35 00
-        E 0 80 41 00
-        E 0 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 34 38
-        E 0 90 40 46
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 34 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 206 b0 07 66
-        E 806 80 40 00
-        E 0 80 34 00
-        E 5 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 213 b0 07 6e
-        E 1341 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1017 90 30 38
-        E 0 90 3c 46
-        E 0 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 4091 80 30 00
-        E 0 80 3c 00
-        E 0 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 37 3d
-        E 0 90 43 4b
-        E 0 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 37 00
-        E 0 80 43 00
-        E 0 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 39 38
-        E 0 90 45 46
-        E 0 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 39 00
-        E 0 80 45 00
-        E 0 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 3b 39
-        E 0 90 47 47
-        E 0 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 3b 00
-        E 0 80 47 00
-        E 0 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 39 3d
-        E 0 90 45 4b
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 39 00
-        E 0 80 45 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 34 38
-        E 0 90 40 46
-        E 0 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 34 00
-        E 0 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 206 b0 07 6e
-        E 745 b0 07 6e
-        E 66 90 34 3d
-        E 0 90 40 4b
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 34 00
-        E 0 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 36 38
-        E 0 90 42 46
-        E 0 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 36 00
-        E 0 80 42 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1 90 37 39
-        E 0 90 43 47
-        E 1011 80 37 00
-        E 0 80 43 00
-        E 5 90 37 3d
-        E 0 90 43 4b
-        E 0 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 1554 80 37 00
-        E 0 80 43 00
-        E 1 90 32 38
-        E 0 90 3e 46
-        E 1524 80 32 00
-        E 0 80 3e 00
-        E 1012 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 32 3d
-        E 0 90 3e 4b
-        E 0 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 32 00
-        E 0 80 3e 00
-        E 0 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 34 38
-        E 0 90 40 46
-        E 0 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 34 00
-        E 0 80 40 00
-        E 0 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 35 39
-        E 0 90 41 47
-        E 0 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 35 00
-        E 0 80 41 00
-        E 0 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 34 38
-        E 0 90 40 46
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 34 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 206 b0 07 66
-        E 806 80 40 00
-        E 0 80 34 00
-        E 5 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 213 b0 07 6e
-        E 1341 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1017 90 30 38
-        E 0 90 3c 46
-        E 0 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 4091 80 30 00
-        E 0 80 3c 00
-        E 0 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 37 3d
-        E 0 90 43 4b
-        E 0 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 37 00
-        E 0 80 43 00
-        E 0 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 39 38
-        E 0 90 45 46
-        E 0 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 39 00
-        E 0 80 45 00
-        E 0 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 3b 39
-        E 0 90 47 47
-        E 0 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 3b 00
-        E 0 80 47 00
-        E 0 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 39 3d
-        E 0 90 45 4b
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 39 00
-        E 0 80 45 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 34 38
-        E 0 90 40 46
-        E 0 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 34 00
-        E 0 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 206 b0 07 6e
-        E 745 b0 07 6e
-        E 66 90 34 3d
-        E 0 90 40 4b
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 34 00
-        E 0 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 36 38
-        E 0 90 42 46
-        E 0 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 36 00
-        E 0 80 42 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1 90 37 39
-        E 0 90 43 47
-        E 1011 80 37 00
-        E 0 80 43 00
-        E 5 90 37 3d
-        E 0 90 43 4b
-        E 0 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 1554 80 37 00
-        E 0 80 43 00
-        E 1 90 32 38
-        E 0 90 3e 46
-        E 1524 80 32 00
-        E 0 80 3e 00
-        E 1012 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 32 3d
-        E 0 90 3e 4b
-        E 0 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 32 00
-        E 0 80 3e 00
-        E 0 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 34 38
-        E 0 90 40 46
-        E 0 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 34 00
-        E 0 80 40 00
-        E 0 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 35 39
-        E 0 90 41 47
-        E 0 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 35 00
-        E 0 80 41 00
-        E 0 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 34 38
-        E 0 90 40 46
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 34 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 206 b0 07 66
-        E 806 80 40 00
-        E 0 80 34 00
-        E 5 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 213 b0 07 6e
-        E 1341 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1017 90 30 38
-        E 0 90 3c 46
-        E 0 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 4091 80 30 00
-        E 0 80 3c 00
-        E 0 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 37 3d
-        E 0 90 43 4b
-        E 0 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 37 00
-        E 0 80 43 00
-        E 0 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 39 38
-        E 0 90 45 46
-        E 0 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 39 00
-        E 0 80 45 00
-        E 0 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 3b 39
-        E 0 90 47 47
-        E 0 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 3b 00
-        E 0 80 47 00
-        E 0 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 39 3d
-        E 0 90 45 4b
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 39 00
-        E 0 80 45 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 34 38
-        E 0 90 40 46
-        E 0 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 34 00
-        E 0 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 206 b0 07 6e
-        E 745 b0 07 6e
-        E 66 90 34 3d
-        E 0 90 40 4b
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 34 00
-        E 0 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 36 38
-        E 0 90 42 46
-        E 0 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 36 00
-        E 0 80 42 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1 90 37 39
-        E 0 90 43 47
-        E 1011 80 37 00
-        E 0 80 43 00
-        E 5 90 37 3d
-        E 0 90 43 4b
-        E 0 90 2b 38
-        E 0 90 30 38
-        E 0 90 37 38
-        E 0 90 3c 46
-        E 1554 80 37 00
-        E 0 80 43 00
-        E 1 90 32 38
-        E 0 90 3e 46
-        E 1524 80 32 00
-        E 0 80 3e 00
-        E 1012 80 2b 00
-        E 0 80 30 00
-        E 0 80 37 00
-        E 0 80 3c 00
-        E 5 90 32 3d
-        E 0 90 3e 4b
-        E 0 90 30 3d
-        E 0 90 35 3d
-        E 0 90 3c 3d
-        E 0 90 41 4b
-        E 1554 80 32 00
-        E 0 80 3e 00
-        E 0 80 30 00
-        E 0 80 35 00
-        E 0 80 3c 00
-        E 0 80 41 00
-        E 1 90 34 38
-        E 0 90 40 46
-        E 0 90 2f 38
-        E 0 90 34 38
-        E 0 90 3b 38
-        E 0 90 40 46
-        E 1524 80 34 00
-        E 0 80 40 00
-        E 0 80 2f 00
-        E 0 80 34 00
-        E 0 80 3b 00
-        E 0 80 40 00
-        E 1 90 35 39
-        E 0 90 41 47
-        E 0 90 2d 39
-        E 0 90 32 39
-        E 0 90 39 39
-        E 0 90 3e 47
-        E 1011 80 35 00
-        E 0 80 41 00
-        E 0 80 2d 00
-        E 0 80 32 00
-        E 0 80 39 00
-        E 0 80 3e 00
-        E 5 90 34 38
-        E 0 90 40 46
-        E 0 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 1554 80 40 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 34 00
-        E 0 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 206 b0 07 66
-        E 806 80 40 00
-        E 0 80 34 00
-        E 5 90 28 3c
-        E 0 90 2d 3d
-        E 0 90 39 3d
-        E 0 90 40 4b
-        E 213 b0 07 6e
-        E 1341 80 28 00
-        E 0 80 2d 00
-        E 0 80 39 00
-        E 0 80 40 00
-        E 1 90 28 37
-        E 0 90 2d 38
-        E 0 90 34 38
-        E 0 90 39 46
-        E 1524 80 28 00
-        E 0 80 2d 00
-        E 0 80 34 00
-        E 0 80 39 00
-        E 1013 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {107CCA33-19CC-414A-8482-46D43B2AEF64}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 593
-        VELLANE -1 100 0
-        CFGEDITVIEW -22445.447352 0.001763 51 12 0 -1 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 0
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 0 1 1 1 0 1 0.125 389 128 1190 469 0 0 0 0 0 0 0 1 0 0.5 0 0 1 64
+      GUID {2F8891E8-DB1C-4F35-AB13-09AB778913EB}
+      <SOURCE WAVE
+        FILE "Ann Zaseli refrain.wav"
       >
+    >
+    <ITEM
+      POSITION 604.83246536131492
+      SNAPOFFS 0
+      LENGTH 22.66671200000258
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E2C81DE-A292-4948-A236-D6860BD15B8A}
+      IID 54073
+      NAME "Ann Zaseli refrain.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09EB55E7-F3D8-46EB-A410-48448F85DB6A}
+      <SOURCE WAVE
+        FILE "Ann Zaseli refrain.wav"
+      >
+    >
+  >
+  <TRACK {D08688B3-D3D8-456C-B884-40EB455E441E}
+    NAME Szysztof
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.75333899751402 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 1 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D08688B3-D3D8-456C-B884-40EB455E441E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 859 555
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAKgBAAABAAAAAAAQAA==
+        AgAAAAAAAAAeAAAAuAEAAAIAAAD/DwAA+gAAADIAAAAyAAAAAQAAABQAAAAgUORD/KHkQwAAHEIAABxCyarkQ/zh5EMAACxCAAAsQvzh5EMvJeVDAAAkQgAAJEILL+VD
+        R4TlQwAAHEIAABxC7YjlQ+yn5UMAABhCAAAYQp695UMj5eVDAAAQQgAAEEIoX+hDtpLoQwAA+EEAAPhBiq7pQ07f6UMAABxCAAAcQtHy6UMvFOpDAAAsQgAALEK3KOpD
+        ZmnqQwAAJEIAACRCeHLqQ6G+6kMAABxCAAAcQkfN6kP37upDAAAYQgAAGEIdEutDMjjrQwAAEEIAABBCzzHsQyBH7EMAAABCAAAAQtxQ7EPEcexDAADwQQAA+EFakOxD
+        NrjsQwAAEEIAABBCvyrtQ4tF7UMAABBCAAAQQgFl7UPQeO1DAAAYQgAAGEJMg+1DFqXtQwAAAEIAAABCk6/tQ63h7UMAAPhBAAD4QQEAAAAK10hCAABAQXZr6EMAADBC
+        AQAAAAEAAAAAAAsAAQAAAAAAAAAAAAAAAAAAAHgCAAC/AQAAAAAAAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {55C88BB1-FED2-4D49-AA73-E16E4113A217}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 455.49883336131461
+      SNAPOFFS 0
+      LENGTH 21.33337599998612
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {48F28E60-EB08-4B88-9BAA-980A356270B2}
+      IID 54072
+      NAME "Szysztof Zaseli refrain.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3F982AF-1D19-484A-9D2E-24307832D08E}
+      <SOURCE WAVE
+        FILE "Szysztof Zaseli refrain.wav"
+      >
+    >
+    <ITEM
+      POSITION 604.83246536133117
+      SNAPOFFS 0
+      LENGTH 47.6893604394553
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94A6E19E-5E97-4F7A-983D-FA10A0290EDE}
+      IID 54074
+      NAME "Szysztof Zaseli refrain.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {535B69C4-B3B8-4DAB-B963-2E13AF082623}
+      <SOURCE WAVE
+        FILE "Szysztof Zaseli refrain.wav"
+      >
+    >
+  >
+  <TRACK {B19328DE-1249-4AAB-8D76-E452BDAF6742}
+    NAME Szysztof
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 1 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B19328DE-1249-4AAB-8D76-E452BDAF6742}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 859 555
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.dll 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFgCAAABAAAAAAAQAA==
+        AgAAAAAAAAAeAAAAuAEAAAIAAAD/DwAA+gAAADIAAAAyAAAAAQAAAB8AAAD2fhdEOZwXRAAAHEIAABxCHKsXRP+5F0QAACxCAAAsQqrgGESL8xhEAAD4QQAA+EEHARlE
+        0QsZRAAAEEIAABBC9h0ZRDw2GUQAAAhCAAAIQgV1GUT/hxlEAAAAQgAAAEKciBlEkZAZRAAA8EEAAPhBLpEZRCHzGUQAAPhBAAD4QeVVGkT3ZRpEAAAsQgAALEKqdhtE
+        dIQbRAAAAEIAAABCWYsbRHCgG0QAAPhBAAD4QbLIG0Qf5BtEAAAIQgAACEIf7htEKQEcRAAAEEIAABBCUgYcRFMQHEQAABhCAAAYQhAeHEQILBxEAAAAQgAAAEJpNBxE
+        RJIcRAAA+EEAAPhBIM8cRG3wHEQAABxCAAAcQn/5HETYDh1EAAAsQgAALELZFh1EzTUdRAAAJEIAACRCakweRBJpHkQAAMhBAADIQR11HkRWix5EAACwQQAAsEEHmh5E
+        NKoeRAAAuEEAALhBerUeRFzGHkQAANhBAADYQUvLHkQv4h5EAACgQQAAoEHa5B5E2kMfRAAAmEEAAJhBvn8fRGWWH0QAABxCAAAcQmGuH0Szvx9EAAAsQgAALELp6h9E
+        lv0fRAAAHEIAABxChzAgRMVNIEQAAMhBAADAQWRcIEQrcSBEAAAYQgAAHEKXtyFEBOoiRAAAwEEAAMBBAQAAAClcOUIAAEBBv0gaREgZB0EBAAAAAQAAAAAACwABAAAA
+        AAAAAAAAAAAAAAAAeAIAAL8BAAAAAAAA
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {DDF10B9C-AD74-4AC5-A7C0-44FCBE39C185}
+      WAK 0 0
     >
   >
   <EXTENSIONS
